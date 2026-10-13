@@ -1,0 +1,692 @@
+[
+ {
+  "date": "2026-10-13",
+  "n": 4,
+  "items": [
+   {
+    "id": "nemesi-teenage",
+    "date": "2026-10-09",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Nemesi ha vent'anni: *esce il primo EP Teenage*",
+    "dek": "Da Campobasso, con radici in Puglia: otto brani per raccontare l'età di mezzo.",
+    "body": [
+     "Nemesi è Sara Maria Forina, ha 20 anni, viene da Campobasso e ha radici in Puglia. Venerdì 9 ottobre è uscito Teenage, il suo ==primo EP==: otto brani, da Nicotina e Caffeina ad Agave lo sa, pubblicati da Garbo Dischi con la distribuzione di Sony Music.",
+     "Il disco raccoglie i singoli Camilla, Agave lo sa e Stupida, e punta tutto su __Punto e virgola__, il brano scelto per presentarlo. Un racconto dei ((vent'anni)) in presa diretta. ==*Da ascoltare adesso.*=="
+    ],
+    "en": {
+     "title": "Nemesi is twenty: *her debut EP Teenage is out*",
+     "dek": "From Campobasso, with roots in Puglia: eight songs about the in-between years.",
+     "body": [
+      "Nemesi is Sara Maria Forina, she is 20, comes from Campobasso and has roots in Puglia. On Friday 9 October she released Teenage, her ==first EP==: eight tracks, from Nicotina e Caffeina to Agave lo sa, out on Garbo Dischi and distributed by Sony Music.",
+      "The record gathers the singles Camilla, Agave lo sa and Stupida, and bets everything on __Punto e virgola__, the track chosen to introduce it. A live account of being ((twenty)). ==*Listen to it now.*=="
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/nemesi-teenage-ep.html"
+     }
+    ]
+   },
+   {
+    "id": "vicario-tripudio",
+    "date": "2026-10-12",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Margherita Vicario torna: *Un Tripudio di Pelle e di Baci*",
+    "dek": "Il nuovo album esce il 20 novembre, poi due teatri a Roma e Milano.",
+    "body": [
+     "Margherita Vicario ha annunciato il nuovo album, Un Tripudio di Pelle e di Baci: ==13 brani== in uscita venerdì 20 novembre per Island Records. Ad aprire la strada c'è Ho chiesto aiuto, uscito il 25 settembre con un video diretto da lei.",
+     "Il disco andrà poi in scena in due teatri: l'8 febbraio 2027 all'Auditorium Conciliazione di __Roma__ e il 10 febbraio al Teatro Arcimboldi di __Milano__. ((Segnate le date.))"
+    ],
+    "en": {
+     "title": "Margherita Vicario is back: *Un Tripudio di Pelle e di Baci*",
+     "dek": "The new album is out on 20 November, followed by two theatres in Rome and Milan.",
+     "body": [
+      "Margherita Vicario has announced her new album, Un Tripudio di Pelle e di Baci: ==13 tracks== out on Friday 20 November on Island Records. Leading the way is Ho chiesto aiuto, released on 25 September with a video she directed herself.",
+      "The record will then go on stage in two theatres: on 8 February 2027 at the Auditorium Conciliazione in __Rome__ and on 10 February at the Teatro Arcimboldi in __Milan__. ((Save the dates.))"
+     ]
+    },
+    "sources": [
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-761770/margherita-vicario-nuovo-album-un-tripudio-di-pelle-e-di-baci-uscita"
+     }
+    ]
+   },
+   {
+    "id": "wilma-de-angelis",
+    "date": "2026-10-11",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Addio a Wilma De Angelis: *la voce di Patatina aveva 96 anni*",
+    "dek": "Cantante a Sanremo e volto della cucina in tv, è morta nella sua Milano.",
+    "body": [
+     "Wilma De Angelis è morta domenica 11 ottobre a Milano, la città dove era nata l'8 aprile 1930. Aveva 96 anni. Tra il 1959 e il 1963 è stata più volte a Sanremo: nel 1960 arrivò ==terza con Quando vien la sera==, in coppia con Joe Sentieri.",
+     "Nel 1961 Patatina non arrivò in finale ma diventò un successo, tanto da farle guadagnare il soprannome di __Miss Patatina__. Più di 50 dischi a 45 giri, poi la televisione: dal 1979 la cucina di Telemenù, diventato Sale, pepe e… fantasia. ((Una voce di casa.))"
+    ],
+    "en": {
+     "title": "Farewell to Wilma De Angelis: *the voice of Patatina was 96*",
+     "dek": "A Sanremo singer and a TV cooking favourite, she died in her home city of Milan.",
+     "body": [
+      "Wilma De Angelis died on Sunday 11 October in Milan, the city where she was born on 8 April 1930. She was 96. Between 1959 and 1963 she sang at Sanremo several times: in 1960 she came ==third with Quando vien la sera==, paired with Joe Sentieri.",
+      "In 1961 Patatina did not reach the final but became a hit, earning her the nickname __Miss Patatina__. More than 50 singles, then television: from 1979 the cooking show Telemenù, later Sale, pepe e… fantasia. ((A voice of home.))"
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/wilma-de-angelis-morta.html"
+     },
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-761755/morta-wilma-de-angelis-cantante-personaggio-televisivo-cucina"
+     }
+    ]
+   },
+   {
+    "id": "raconteurs-nashville",
+    "date": "2026-10-10",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "The Raconteurs di nuovo insieme: *dopo sette anni a Nashville*",
+    "dek": "Jack White li richiama sul palco del suo nuovo locale, senza telefoni in sala.",
+    "body": [
+     "Sabato 10 ottobre, al secondo concerto di Jack White al Truth, il suo nuovo locale di Nashville, sono saliti sul palco anche Brendan Benson, Jack Lawrence e Patrick Keeler: ==The Raconteurs di nuovo insieme== dopo sette anni, in una serata senza telefoni.",
+     "In scaletta Steady, As She Goes, Hands, Level, Broken Boy Soldier e Carolina Drama. Per i __vent'anni__ del primo album Third Man Records prepara un cofanetto con demo e ((inediti)), più il primissimo concerto della band."
+    ],
+    "en": {
+     "title": "The Raconteurs together again: *seven years later in Nashville*",
+     "dek": "Jack White brings them on stage at his new venue, with phones left outside.",
+     "body": [
+      "On Saturday 10 October, at Jack White's second show at the Truth, his new Nashville venue, Brendan Benson, Jack Lawrence and Patrick Keeler joined him on stage: ==The Raconteurs together again== after seven years, on a no-phones night.",
+      "The set included Steady, As She Goes, Hands, Level, Broken Boy Soldier and Carolina Drama. For the debut album's __twentieth anniversary__ Third Man Records is preparing a box set with demos and ((unreleased tracks)), plus the band's very first concert."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2514238/the-raconteurs-reunite-at-jack-whites-nashville-show-announce-20th-anniversary-vault-package/news"
+     }
+    ]
+   },
+   {
+    "id": "britney-shell-never-be-me",
+    "date": "2026-10-10",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Britney Spears apre il cassetto: *esce She'll Never Be Me*",
+    "dek": "Un inedito del 2001 scritto con Justin Timberlake anticipa la riedizione di Britney.",
+    "body": [
+     "Britney Spears ha pubblicato She'll Never Be Me, un brano registrato nel 2001 per l'album Britney e poi rimasto nel cassetto. L'ha scritto ==insieme a Justin Timberlake==, che canta anche nei cori. È la sua prima uscita dal 2023.",
+     "Il pezzo anticipa l'edizione per i __25 anni__ di Britney, in arrivo il 6 novembre con ((cinque inediti)), tra cui la versione in studio di Right Now (Taste The Victory), nata per uno spot del 2002."
+    ],
+    "en": {
+     "title": "Britney Spears opens the vault: *She'll Never Be Me is out*",
+     "dek": "An unreleased 2001 song written with Justin Timberlake previews the Britney reissue.",
+     "body": [
+      "Britney Spears has released She'll Never Be Me, a song recorded in 2001 for the album Britney and then shelved. She wrote it ==together with Justin Timberlake==, who also sings backing vocals. It is her first release since 2023.",
+      "The track previews the __25th anniversary__ edition of Britney, due on 6 November with ((five unreleased tracks)), including the studio version of Right Now (Taste The Victory), born for a 2002 commercial."
+     ]
+    },
+    "sources": [
+     {
+      "name": "The Irish News (PA)",
+      "url": "https://www.irishnews.com/entertainment/britney-spears-shares-previously-unreleased-song-written-with-justin-timberlake-KT3YU3AXJ5PBPMN755WUKW3WOY/"
+     },
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-761785/britney-spears-canzone-inedita-justin-timberlake-she-ll-never-be-me"
+     }
+    ]
+   },
+   {
+    "id": "needles-atcq",
+    "date": "2026-10-12",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "A Tribe Called Quest si veste NEEDLES: *quattro pezzi per l'inverno*",
+    "dek": "Rosso, verde e nero: la tuta e il bomber guardano a The Low End Theory.",
+    "body": [
+     "NEEDLES dedica la sua capsule per l'autunno-inverno 2026 ad A Tribe Called Quest: ==quattro pezzi in rosso, verde e nero==. C'è la giacca da tuta con la scritta ATCQ, la farfalla e il logo circolare sulla schiena, con i pantaloni abbinati e un cardigan a collo alto.",
+     "Il pezzo forte è il bomber, con una toppa in ciniglia della figura sulla copertina di __The Low End Theory__. Esce il ((17 ottobre)) nei negozi NEPENTHES di Tokyo, Osaka e Hakata e da SOUTH2 WEST8 a Sapporo."
+    ],
+    "en": {
+     "title": "A Tribe Called Quest wears NEEDLES: *four pieces for winter*",
+     "dek": "Red, green and black: the tracksuit and the bomber look back to The Low End Theory.",
+     "body": [
+      "NEEDLES dedicates its fall-winter 2026 capsule to A Tribe Called Quest: ==four pieces in red, green and black==. There is a track jacket with the ATCQ lettering, the butterfly and the circular logo on the back, with matching pants and a roll-neck cardigan.",
+      "The standout is the bomber, with a chenille patch of the figure from the cover of __The Low End Theory__. It drops on ((17 October)) at NEPENTHES stores in Tokyo, Osaka and Hakata and at SOUTH2 WEST8 in Sapporo."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Hypebeast",
+      "url": "https://hypebeast.com/2026/10/needles-a-tribe-called-quest-fall-winter-2026-fw26-collaboration-collection-release-info"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "n": 3,
+  "items": [
+   {
+    "id": "soap-sophie",
+    "date": "2026-10-09",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "soap si fa una domanda: *esce il singolo Sophie*",
+    "dek": "Nata a Roma nel 2005, cresciuta a Latina, canta tra italiano e francese.",
+    "body": [
+     "Il 9 ottobre è uscito Sophie, il nuovo singolo di soap, al secolo Sophie Ottone. Classe 2005, nata a Roma e cresciuta a Latina, ha vissuto tra l'Italia e l'Algeria francofona e oggi ==canta in italiano e in francese==. Il pezzo arriva dopo Cigarette, uscito a settembre.",
+     "Tutto parte da una domanda che non si era mai fatta: di cosa ha bisogno Sophie? Alle spalle ha già __Sanremo Giovani 2025__ con Buona Vita, da cui si è ritirata prima della semifinale, e un posto tra le artiste ((da scoprire)) delle grandi piattaforme. ==*Un nome da segnare.*=="
+    ],
+    "en": {
+     "title": "soap asks herself a question: *her new single Sophie is out*",
+     "dek": "Born in Rome in 2005 and raised in Latina, she sings in Italian and French.",
+     "body": [
+      "Sophie, the new single by soap, real name Sophie Ottone, came out on 9 October. Born in 2005 in Rome and raised in Latina, she grew up between Italy and French-speaking Algeria and now ==sings in Italian and French==. The track follows Cigarette, released in September.",
+      "It all starts from a question she had never asked herself: what does Sophie need? She already has __Sanremo Giovani 2025__ behind her with Buona Vita, from which she withdrew before the semifinal, and a place among the ((artists to discover)) on the big platforms. ==*A name to note down.*=="
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/soap-sophie-nuovo-singolo.html"
+     }
+    ]
+   },
+   {
+    "id": "ty1-junkie-musik",
+    "date": "2026-10-09",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "TY1 chiama tutta la scena: *fuori Junkie Musik*",
+    "dek": "Quindici tracce, da Marracash a Kid Yugi, dal rap alla baile funk.",
+    "body": [
+     "Il 9 ottobre è uscito Junkie Musik, il nuovo album di TY1, il produttore un tempo noto come Dj Tayone. Sono ==quindici tracce piene di ospiti==: Noyz Narcos, Guè, Marracash, Kid Yugi, Ernia, Rkomi, Gemitaiz, Sayf, Frah Quintale e altri.",
+     "Il suono passa dall'hip hop all'afro, dalla trap alla __baile funk__ e alla phonk. Tra i pezzi c'è ((Kopi Luwak)) con Kid Yugi e Marracash. CD e vinile autografato arrivano il 20 novembre. Il suo disco precedente, Djungle, era ==disco di platino==."
+    ],
+    "en": {
+     "title": "TY1 calls in the whole scene: *Junkie Musik is out*",
+     "dek": "Fifteen tracks, from Marracash to Kid Yugi, from rap to baile funk.",
+     "body": [
+      "Junkie Musik, the new album by TY1, the producer once known as Dj Tayone, came out on 9 October. It has ==fifteen tracks packed with guests==: Noyz Narcos, Guè, Marracash, Kid Yugi, Ernia, Rkomi, Gemitaiz, Sayf, Frah Quintale and more.",
+      "The sound moves from hip hop to afro, from trap to __baile funk__ and phonk. The tracks include ((Kopi Luwak)) with Kid Yugi and Marracash. The CD and a signed vinyl arrive on 20 November. His previous record, Djungle, ==went platinum==."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/ty1-junkie-musik-album.html"
+     }
+    ]
+   },
+   {
+    "id": "jovanotti-samurai-jay",
+    "date": "2026-10-09",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Jovanotti e Samurai Jay: *Le foglie di te a New York*",
+    "dek": "Una nuova versione del brano, con un video girato negli Stati Uniti.",
+    "body": [
+     "Dal 9 ottobre c'è una nuova versione di Le foglie di te, il brano di Jovanotti dall'album Il corpo umano VOL. 1, ora ==cantato insieme a Samurai Jay==. Arriva dopo Buon Vento, la versione condivisa con ALFA.",
+     "Il video è stato girato a __New York__, la prima volta in città per Samurai Jay, ed esce su YouTube il 16 ottobre. Il 26 novembre arriva nei cinema ((il film su Jovanotti)), LORENZO – L'incredibile avventura di Jovanotti."
+    ],
+    "en": {
+     "title": "Jovanotti and Samurai Jay: *Le foglie di te in New York*",
+     "dek": "A new version of the song, with a video shot in the United States.",
+     "body": [
+      "Since 9 October there is a new version of Le foglie di te, Jovanotti's song from the album Il corpo umano VOL. 1, now ==sung together with Samurai Jay==. It follows Buon Vento, the version shared with ALFA.",
+      "The video was shot in __New York__, Samurai Jay's first time in the city, and comes out on YouTube on 16 October. On 26 November ((the film about Jovanotti)), LORENZO – L'incredibile avventura di Jovanotti, opens in cinemas."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Newsic",
+      "url": "https://www.newsic.it/jovanotti-esce-le-foglie-di-te-con-samurai-jay/"
+     }
+    ]
+   },
+   {
+    "id": "usher-chris-brown-date",
+    "date": "2026-10-09",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Usher e Chris Brown fermano il tour: *saltano quattro stadi*",
+    "dek": "Cancellate Baltimora, Cincinnati, Columbia e Indianapolis.",
+    "body": [
+     "Il 9 ottobre chi aveva il biglietto ha saputo che quattro date del tour R&B di Usher e Chris Brown ==non si faranno più==: Baltimora il 17 ottobre, Cincinnati il 24, Columbia il 29 e Indianapolis il 31. Gli organizzatori parlano della __salute di artisti e squadra__.",
+     "Chris Brown a fine ottobre deve tornare in tribunale nel Regno Unito, per un episodio del 2023 in un locale. Il tour intanto continua: dopo Houston e il MetLife Stadium riparte il 5 novembre con ((cinque serate ad Atlanta))."
+    ],
+    "en": {
+     "title": "Usher and Chris Brown pause the tour: *four stadiums cut*",
+     "dek": "Baltimore, Cincinnati, Columbia and Indianapolis are cancelled.",
+     "body": [
+      "On 9 October ticket holders learned that four dates of Usher and Chris Brown's R&B tour ==will no longer happen==: Baltimore on 17 October, Cincinnati on the 24th, Columbia on the 29th and Indianapolis on the 31st. The organisers cite the __health of the artists and crew__.",
+      "At the end of October Chris Brown has to return to court in the UK over a 2023 incident at a club. Meanwhile the tour goes on: after Houston and MetLife Stadium it restarts on 5 November with ((five nights in Atlanta))."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Complex",
+      "url": "https://www.complex.com/music/a/jaelaniturnerwilliams/usher-chris-brown-r-and-b-tour-canceled-dates"
+     }
+    ]
+   },
+   {
+    "id": "jay-z-kanye-chris-martin",
+    "date": "2026-10-10",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Jay-Z risponde a Kanye West: *le persone non si possiedono*",
+    "dek": "Nella sua docuserie torna sull'amicizia con Chris Martin.",
+    "body": [
+     "Nel settimo episodio della docuserie Jay-Z in 8, parlando con Rick Rubin, Jay-Z risponde a una vecchia accusa di Kanye West, che si era sentito messo da parte per ==l'amicizia con Chris Martin== dei Coldplay.",
+     "Jay-Z racconta che Martin era già suo amico e che è stato lui a farli conoscere. La reazione di West la chiama __senso di diritto__ e chiude così: ((non possediamo le persone)). Martin aveva lavorato con entrambi tra il 2006 e il 2008."
+    ],
+    "en": {
+     "title": "Jay-Z answers Kanye West: *people can't be owned*",
+     "dek": "In his docuseries he returns to his friendship with Chris Martin.",
+     "body": [
+      "In the seventh episode of the docuseries Jay-Z in 8, talking with Rick Rubin, Jay-Z answers an old complaint from Kanye West, who had felt sidelined by ==his friendship with Chris Martin== of Coldplay.",
+      "Jay-Z says Martin was already his friend and that he was the one who introduced them. He calls West's reaction __a sense of entitlement__ and closes with: ((we don't own people)). Martin had worked with both of them between 2006 and 2008."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Complex",
+      "url": "https://www.complex.com/music/a/jaelaniturnerwilliams/jay-z-kanye-west-big-brother-coldplay-chris-martin"
+     }
+    ]
+   },
+   {
+    "id": "urban-outfitters-linda-lindas",
+    "date": "2026-10-09",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Urban Outfitters va al college: *sul palco The Linda Lindas*",
+    "dek": "Il primo spot del marchio per il rientro a scuola passa dalla musica dal vivo.",
+    "body": [
+     "Urban Outfitters ha lanciato All Together Now, ==il suo primo spot per il rientro a scuola==, dedicato al clima delle partite di football universitario. Per tutta la stagione porta pop-up e eventi nei campus americani.",
+     "Alla tappa dell'Università del Wisconsin–Madison hanno suonato __The Linda Lindas__, Mack Keane e Whatmore, con un evento in negozio insieme a Levi's. Moda e concerti, ((nello stesso cortile))."
+    ],
+    "en": {
+     "title": "Urban Outfitters goes to college: *The Linda Lindas on stage*",
+     "dek": "The brand's first back-to-school ad leans on live music.",
+     "body": [
+      "Urban Outfitters has launched All Together Now, ==its first back-to-school ad==, built around college football game-day culture. Throughout the season it is bringing pop-ups and events to American campuses.",
+      "At the University of Wisconsin–Madison stop, __The Linda Lindas__, Mack Keane and Whatmore played, alongside an in-store event with Levi's. Fashion and gigs ((in the same courtyard))."
+     ]
+    },
+    "sources": [
+     {
+      "name": "The Zoe Report",
+      "url": "https://www.thezoereport.com/fashion/october-2026-fashion-news"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-10-11",
+  "n": 2,
+  "items": [
+   {
+    "id": "ottobre-bestia",
+    "date": "2026-10-09",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "title": "Ottobre libera la sua Bestia: *un rock ruvido dall'Irpinia*",
+    "dek": "Danza, moda e fragilità: la giovane artista campana mette tutto in un disco.",
+    "body": [
+     "Il 9 ottobre è uscito Bestia, il nuovo album di Ottobre, ==cantante e musicista di origini irpine==. Ha lasciato casa a tredici anni per studiare danza e poi ha lavorato nella moda: due mondi che nel disco tornano, il primo nel modo di usare il corpo, il secondo con un rapporto __pieno di contraddizioni__.",
+     "Il titolo è un alter ego, la parte più istintiva e meno controllata di sé. Il suono è un rock ruvido e inquieto che parla di salute mentale e di relazioni intense, spesso distruttive. Si apre con una versione speciale di ((Parlami d'amore Mariù)), la canzone da cui, dice lei, è cominciato tutto. ==*Una voce da tenere d'occhio.*=="
+    ],
+    "sources": [
+     {
+      "name": "ANSA",
+      "url": "https://www.ansa.it/campania/notizie/2026/10/09/bestia-esce-oggi-il-nuovo-album-di-ottobre_acfe1d23-7896-4b74-814f-be42d872f7ee.html"
+     },
+     {
+      "name": "Newsic",
+      "url": "https://www.newsic.it/canzoni-della-settimana-le-nuove-uscite-discografiche-10-ottobre-newmusicfriday-2/"
+     }
+    ],
+    "lead": true,
+    "en": {
+     "title": "Ottobre unleashes her Bestia: *raw rock from Irpinia*",
+     "dek": "Dance, fashion and fragility: the young Campanian artist puts it all into one record.",
+     "body": [
+      "Bestia, the new album by Ottobre, ==a singer and musician from Irpinia==, came out on 9 October. She left home at thirteen to study dance and later worked in fashion: both worlds return on the record, the first in the way she uses her body, the second in a relationship __full of contradictions__.",
+      "The title is an alter ego, her most instinctive and least controlled side. The sound is a raw, restless rock about mental health and intense, often destructive relationships. It opens with a special version of ((Parlami d'amore Mariù)), the song where, she says, it all began. ==*A voice to watch.*=="
+     ]
+    }
+   },
+   {
+    "id": "rkomi-a-milano",
+    "date": "2026-10-09",
+    "tag": "Italia",
+    "country": "IT",
+    "title": "Rkomi torna a casa: *esce l'EP A Milano*",
+    "dek": "Otto brani nuovi a dieci anni da Dasein Sollen, e cinque sere al Fabrique.",
+    "body": [
+     "Rkomi ha pubblicato A Milano, ==un EP di otto brani nuovi== che arriva dieci anni dopo Dasein Sollen, il suo esordio del 2016. La title track dura otto minuti ed era uscita già a giugno. È un ritorno alle __radici rap__, dopo gli anni del pop e di Sanremo.",
+     "Dal vivo la città risponde: le prime quattro date al Fabrique di Milano sono andate sold out e se n'è aggiunta una quinta. Si suona il 3, 4, 11, 13 e 24 novembre, con una scaletta presa solo da Dasein Sollen, Io in terra, Ossigeno e ((A Milano))."
+    ],
+    "sources": [
+     {
+      "name": "Rolling Stone Italia",
+      "url": "https://www.rollingstone.it/musica/classifiche-liste-musica/i-dischi-da-ascoltare-a-ottobre-2026/1041033/"
+     },
+     {
+      "name": "Sky TG24",
+      "url": "https://tg24.sky.it/spettacolo/musica/2026/07/22/rkomi-concerto-milano"
+     },
+     {
+      "name": "Newsic",
+      "url": "https://www.newsic.it/canzoni-della-settimana-le-nuove-uscite-discografiche-10-ottobre-newmusicfriday-2/"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Rkomi comes home: *the A Milano EP is out*",
+     "dek": "Eight new tracks ten years after Dasein Sollen, and five nights at Fabrique.",
+     "body": [
+      "Rkomi has released A Milano, ==an EP of eight new tracks== arriving ten years after Dasein Sollen, his 2016 debut. The eight-minute title track was already out in June. It is a return to his __rap roots__ after the pop and Sanremo years.",
+      "The city is answering live: the first four dates at Fabrique in Milan sold out and a fifth was added. He plays on 3, 4, 11, 13 and 24 November, with a setlist drawn only from Dasein Sollen, Io in terra, Ossigeno and ((A Milano))."
+     ]
+    }
+   },
+   {
+    "id": "mengoni-giornate-perse",
+    "date": "2026-10-09",
+    "tag": "Italia",
+    "country": "IT",
+    "title": "Marco Mengoni cambia passo: *arriva Giornate perse*",
+    "dek": "Il nuovo singolo è in radio da venerdì, con un suono più adulto.",
+    "body": [
+     "Da venerdì 9 ottobre è in radio e in digitale Giornate perse, ==il nuovo singolo di Marco Mengoni==. È un pop più adulto del solito, con un omaggio a __Lucio Dalla__ che si sente tra le righe.",
+     "Lo stesso venerdì sono usciti anche Margherita Vicario con Ho chiesto aiuto e Ornella Vanoni con Francesco Gabbani in ((Viva la vita)): una settimana piena per chi segue il pop italiano."
+    ],
+    "sources": [
+     {
+      "name": "Newsic",
+      "url": "https://www.newsic.it/canzoni-della-settimana-le-nuove-uscite-discografiche-10-ottobre-newmusicfriday-2/"
+     },
+     {
+      "name": "iMusicFun",
+      "url": "https://www.imusicfun.it/news/novita-i-nuovi-singoli-in-uscita-venerdi-9-ottobre-2026/"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Marco Mengoni changes pace: *here comes Giornate perse*",
+     "dek": "The new single hit radio on Friday, with a more grown-up sound.",
+     "body": [
+      "Since Friday 9 October Giornate perse, ==Marco Mengoni's new single==, has been on radio and streaming. It is more grown-up pop than usual, with a nod to __Lucio Dalla__ you can hear between the lines.",
+      "The same Friday also brought Margherita Vicario's Ho chiesto aiuto and Ornella Vanoni with Francesco Gabbani on ((Viva la vita)): a busy week for anyone following Italian pop."
+     ]
+    }
+   },
+   {
+    "id": "offset-don-toliver-every-night",
+    "date": "2026-10-09",
+    "tag": "USA",
+    "country": "US",
+    "title": "Offset e Don Toliver insieme: *fuori Every Night*",
+    "dek": "Un venerdì americano corto ma con nomi grossi: anche Gunna e Rick Ross.",
+    "body": [
+     "Il venerdì del 9 ottobre in America è stato più tranquillo del solito, ma non vuoto. Il pezzo da sentire è Every Night, ==il nuovo brano di Offset e Don Toliver==. Nella stessa notte sono usciti anche Pop It di Gunna e Loaded di __Rick Ross__.",
+     "Tra gli album, Ovrkast. ha pubblicato STRIKING e Pitbull Pitcoin. Da segnare anche FOR SIXXX IN THE MORNIN, dove Jessie Reyez incontra ((Samara Cyn)), una delle voci più interessanti della nuova scena."
+    ],
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1012425-hip-hop-albums-songs-october-9-2026"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Offset and Don Toliver together: *Every Night is out*",
+     "dek": "A short American Friday with big names: Gunna and Rick Ross too.",
+     "body": [
+      "Friday 9 October was quieter than usual in America, but not empty. The track to hear is Every Night, ==the new song by Offset and Don Toliver==. The same night also brought Gunna's Pop It and __Rick Ross__'s Loaded.",
+      "On the album side, Ovrkast. released STRIKING and Pitbull put out Pitcoin. Also worth noting is FOR SIXXX IN THE MORNIN, where Jessie Reyez meets ((Samara Cyn)), one of the most interesting voices of the new scene."
+     ]
+    }
+   },
+   {
+    "id": "charlotte-lawrence-frame-ritz",
+    "date": "2026-10-09",
+    "tag": "Moda e musica",
+    "country": "US",
+    "title": "Charlotte Lawrence, 24 ore al Ritz: *la nuova campagna di Frame*",
+    "dek": "La cantautrice americana è il volto del nuovo capitolo Frame x Ritz Paris.",
+    "body": [
+     "Charlotte Lawrence, cantautrice e attrice di 26 anni, è il volto di 24 Hours in Paris, ==il nuovo capitolo di Frame x Ritz Paris==. La campagna, in stile documentario, la segue per un giorno e una notte tra l'hotel di Place Vendôme, i giri in macchina, __le sessioni in studio__ e i balli fino a tardi.",
+     "Tra i capi ci sono la giacca da smoking in suede, le pantofole in velluto, il pigiama in satin e le felpe con la scritta ((If Found, Please Return to Ritz Paris)). Da venerdì a domenica la collezione è nella boutique del Ritz, mentre lei è attesa sul palco ad Austin."
+    ],
+    "sources": [
+     {
+      "name": "New York Style Guide",
+      "url": "https://newyorkstyleguide.com/frame-x-ritz-paris-24-hours-in-paris/"
+     },
+     {
+      "name": "The Zoe Report",
+      "url": "https://www.thezoereport.com/fashion/october-2026-fashion-news"
+     },
+     {
+      "name": "WWD",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/frame-ritz-paris-24-hours-in-paris-charlotte-lawrence-1239318767/"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Charlotte Lawrence, 24 hours at the Ritz: *Frame's new campaign*",
+     "dek": "The American singer-songwriter fronts the new Frame x Ritz Paris chapter.",
+     "body": [
+      "Charlotte Lawrence, a 26-year-old singer-songwriter and actress, is the face of 24 Hours in Paris, ==the new chapter of Frame x Ritz Paris==. The documentary-style campaign follows her for a day and a night between the Place Vendôme hotel, car rides, __studio sessions__ and dancing until late.",
+      "The pieces include the suede tuxedo jacket, velvet slippers, satin pyjamas and sweatshirts reading ((If Found, Please Return to Ritz Paris)). From Friday to Sunday the collection is in the Ritz boutique, while she is due on stage in Austin."
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "date": "2026-10-10",
+  "n": 1,
+  "items": [
+   {
+    "id": "westcross-bar-speranza",
+    "date": "2026-10-02",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "title": "Westcross apre il suo Bar Speranza: *l'esordio del rapper di Padova*",
+    "dek": "Radici tra Palestina e Iran, storytelling hip hop e un debutto su Island Records.",
+    "body": [
+     "Il 2 ottobre è uscito Bar Speranza, ==il primo album di Westcross==, rapper cresciuto a Padova da __madre palestinese e padre iraniano__. Il disco esce per Island Records/Universal Music Italia, e la parte visiva la cura lui stesso insieme ai videomaker Gianmarco Martini e Davide Santinello.",
+     "A fare da apripista è ((L'Ultimo Coccodrillo)), con TÄRA al ritornello: una conversazione immaginaria con un cugino lontano sui ricordi d'infanzia e sulle origini familiari. Prima del debutto il suo nome era già girato accanto a quelli di Frah Quintale, Massimo Pericolo e Dutch Nazari. ==*È un nome da segnarsi.*=="
+    ],
+    "sources": [
+     {
+      "name": "Musicalnews",
+      "url": "https://www.musicalnews.com/2026/09/18/westcross-rapper-di-padova-da-madre-palestinese-e-padre-iraniano-e-lalbum-bar-speranza/"
+     },
+     {
+      "name": "Billboard Italia",
+      "url": "https://billboard.it/top-story/album-che-ascolteremo-a-ottobre/2026/09/30210808/"
+     },
+     {
+      "name": "Radio LatteMiele",
+      "url": "https://www.lattemiele.com/podcasts/westcross-bar-speranza/"
+     }
+    ],
+    "lead": true,
+    "en": {
+     "title": "Westcross opens his Bar Speranza: *the Padua rapper's debut*",
+     "dek": "Roots between Palestine and Iran, hip hop storytelling and a debut on Island Records.",
+     "body": [
+      "Bar Speranza, ==Westcross's first album==, came out on 2 October. He is a rapper raised in Padua by a __Palestinian mother and an Iranian father__. The record is out on Island Records/Universal Music Italia, and he handles the visuals himself with videomakers Gianmarco Martini and Davide Santinello.",
+      "Leading the way is ((L'Ultimo Coccodrillo)), with TÄRA on the chorus: an imaginary conversation with a distant cousin about childhood memories and family roots. Before the debut his name was already circulating next to Frah Quintale, Massimo Pericolo and Dutch Nazari. ==*A name to write down.*=="
+     ]
+    }
+   },
+   {
+    "id": "fabri-fibra-neffa-zarathustra-style",
+    "date": "2026-10-09",
+    "tag": "Italia",
+    "country": "IT",
+    "title": "Fabri Fibra e Neffa insieme: *esce Zarathustra Style*",
+    "dek": "Il primo vero album in coppia: 23 tracce, nessun featuring, beat tutti di Neffa.",
+    "body": [
+     "Il 9 ottobre è arrivato Zarathustra Style, il primo vero album in coppia di Fabri Fibra e Neffa, pubblicato da Dischi Numero Uno/Sony Music. Ci sono ==23 inediti, tutti prodotti da Neffa== e senza ospiti, più una bonus track che si trova solo sul doppio vinile.",
+     "Il progetto è nato ((quasi per caso)): nel novembre 2024, dopo un pranzo a Milano, i due hanno improvvisato in studio e __in poche ore avevano già le prime tracce__. Il disco viene presentato in un giro di instore a Torino, Milano, Napoli e Roma tra il 9 e il 13 ottobre."
+    ],
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/fabri-fibra-neffa-zarathustra-style.html"
+     },
+     {
+      "name": "Framed Magazine",
+      "url": "https://www.framedmagazine.it/zarathustra-style-fabri-fibra-neffa-annuncio-joint-album-uscita/"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Fabri Fibra and Neffa together: *Zarathustra Style is out*",
+     "dek": "Their first real album as a duo: 23 tracks, no features, every beat by Neffa.",
+     "body": [
+      "Zarathustra Style arrived on 9 October, the first real album as a duo by Fabri Fibra and Neffa, released by Dischi Numero Uno/Sony Music. It has ==23 new tracks, all produced by Neffa== and no guests, plus a bonus track found only on the double vinyl.",
+      "The project started ((almost by chance)): in November 2024, after a lunch in Milan, the two improvised in the studio and __within a few hours they already had the first tracks__. The record is being presented with in-store dates in Turin, Milan, Naples and Rome between 9 and 13 October."
+     ]
+    }
+   },
+   {
+    "id": "taylor-swift-patient-zero-numero-uno",
+    "date": "2026-10-10",
+    "tag": "USA",
+    "country": "US",
+    "title": "Taylor Swift, Patient Zero *debutta al n.1 della Hot 100*",
+    "dek": "Il singolo dell'edizione The Encore porta di nuovo The Life of a Showgirl in vetta.",
+    "body": [
+     "Patient Zero è il primo singolo di The Life of a Showgirl: The Encore, l'edizione deluxe uscita il 25 settembre con quattro brani nuovi. Nella classifica Billboard datata 10 ottobre il pezzo ==entra direttamente al primo posto== della Hot 100 e scalza Choosin' Texas.",
+     "I brani dell'Encore occupano __quattro dei primi cinque posti__. La riedizione ha riportato l'album al n.1 della Billboard 200. La critica però è fredda: su Metacritic i pezzi nuovi si fermano a ((39/100))."
+    ],
+    "sources": [
+     {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/lists/taylor-swift-patient-zero-hot-100-number-one-debut/"
+     },
+     {
+      "name": "Variety",
+      "url": "https://variety.com/2026/music/news/taylor-swift-patient-zero-number-one-hot-100-chart-single-1236899253/"
+     },
+     {
+      "name": "Billboard (Billboard 200)",
+      "url": "https://www.billboard.com/music/chart-beat/taylor-swift-life-of-a-showgirl-no-1-encore-1236353941/"
+     },
+     {
+      "name": "Wikipedia – The Life of a Showgirl",
+      "url": "https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Taylor Swift's Patient Zero *debuts at No. 1 on the Hot 100*",
+     "dek": "The single from The Encore edition puts The Life of a Showgirl back on top.",
+     "body": [
+      "Patient Zero is the first single from The Life of a Showgirl: The Encore, the deluxe edition released on 25 September with four new songs. On the Billboard chart dated 10 October the track ==goes straight to No. 1== on the Hot 100, knocking off Choosin' Texas.",
+      "Songs from the Encore take __four of the top five spots__. The reissue sent the album back to No. 1 on the Billboard 200. Critics are cool, though: on Metacritic the new songs stop at ((39/100))."
+     ]
+    }
+   },
+   {
+    "id": "ye-kai-cenat-vivet-complexcon",
+    "date": "2026-10-04",
+    "tag": "Moda e musica",
+    "country": "US",
+    "title": "Ye passa allo stand VIVET di *Kai Cenat al ComplexCon*",
+    "dek": "A Los Angeles i due fanno pace parlando di stivali, dopo la lite del 2024.",
+    "body": [
+     "Domenica 4 ottobre, al ComplexCon di Los Angeles, Ye si è fermato allo stand di VIVET, il marchio di abbigliamento dello streamer Kai Cenat che a settembre aveva sfilato per la prima volta alla New York Fashion Week. I video dell'incontro ==sono diventati virali in poche ore==.",
+     "Più tardi, in live, Cenat ha raccontato che i due hanno parlato dello stivale ((\"electrician\")) di VIVET: a Ye piace la versione alta, mentre il brand sta preparando un modello a metà gamba. __È un segnale di distensione__ dopo il litigio del 2024 sul merch di Vultures, che a Cenat stava troppo largo."
+    ],
+    "sources": [
+     {
+      "name": "Complex",
+      "url": "https://www.complex.com/style/a/backwoodsaltar/kanye-west-kai-cenat-complexcon-vivet"
+     },
+     {
+      "name": "Complex",
+      "url": "https://www.complex.com/style/a/backwoodsaltar/kai-cenat-kanye-west-viral-moment-complexcon"
+     },
+     {
+      "name": "The Source",
+      "url": "https://thesource.com/2026/10/05/complexcon-2026-ye-playboi-carti-kai-cenat-and-more-linkup-as-fashion-fights-and-chaos-shake-up-la/"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Ye stops by the VIVET booth of *Kai Cenat at ComplexCon*",
+     "dek": "In Los Angeles the two make peace talking about boots, after their 2024 feud.",
+     "body": [
+      "On Sunday 4 October, at ComplexCon in Los Angeles, Ye stopped at the booth of VIVET, the clothing brand of streamer Kai Cenat, who walked his first show at New York Fashion Week in September. Videos of the meeting ==went viral within hours==.",
+      "Later, on stream, Cenat said the two talked about VIVET's ((\"electrician\")) boot: Ye likes the tall version, while the brand is working on a mid-calf model. __It is a sign of easing tensions__ after their 2024 argument over the Vultures merch, which was too big for Cenat."
+     ]
+    }
+   },
+   {
+    "id": "victorias-secret-show-2026-katseye-megan",
+    "date": "2026-09-29",
+    "tag": "Moda e musica",
+    "country": "US",
+    "title": "Victoria's Secret Show 2026: *sul palco solo artiste donne*",
+    "dek": "KATSEYE, Megan Thee Stallion, Tate McRae e Megan Moroney il 18 ottobre a Los Angeles.",
+    "body": [
+     "Victoria's Secret ha annunciato chi canterà al Fashion Show 2026, in programma il 18 ottobre a Los Angeles: KATSEYE, Megan Thee Stallion, Tate McRae e Megan Moroney. ==Sono tutte donne== e coprono __pop, hip hop e country__.",
+     "Lo show andrà in diretta sui canali YouTube, Instagram e TikTok del brand. Durante la serata verrà anche annunciata la vincitrice della ricerca della ((nuova Angel)), che avrà un contratto con IMG Models."
+    ],
+    "sources": [
+     {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/music/music-news/victorias-secret-fashion-show-performers-katseye-tate-mcrae-1236349610/"
+     },
+     {
+      "name": "HOLA! USA",
+      "url": "https://www.hola.com/us/entertainment/20261001926379/victorias-secret-fashion-show-2026-performers-katseye-megan-moroney/"
+     },
+     {
+      "name": "iHeartRadio",
+      "url": "https://wild949.iheart.com/content/2026-09-29-katseye-megan-thee-stallion-more-to-perform-at-2026-victorias-secret-fashion-show/"
+     }
+    ],
+    "lead": false,
+    "en": {
+     "title": "Victoria's Secret Show 2026: *only women on stage*",
+     "dek": "KATSEYE, Megan Thee Stallion, Tate McRae and Megan Moroney on 18 October in Los Angeles.",
+     "body": [
+      "Victoria's Secret has announced who will perform at the 2026 Fashion Show, set for 18 October in Los Angeles: KATSEYE, Megan Thee Stallion, Tate McRae and Megan Moroney. ==They are all women== and cover __pop, hip hop and country__.",
+      "The show will stream live on the brand's YouTube, Instagram and TikTok channels. During the night the winner of the search for the ((new Angel)) will also be announced, with a contract at IMG Models."
+     ]
+    }
+   }
+  ]
+ }
+]
