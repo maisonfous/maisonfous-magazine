@@ -1,5 +1,175 @@
 [
  {
+  "date": "2026-10-14",
+  "n": 5,
+  "items": [
+   {
+    "id": "sofia-panizzi-diluvio",
+    "date": "2026-10-13",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Sofia Panizzi passa alla musica: *il primo singolo è Diluvio*",
+    "dek": "Attrice romana di 28 anni, esordisce venerdì 16 ottobre con canzone e videoclip.",
+    "body": [
+     "Sofia Panizzi ha 28 anni, è di Roma e finora l'abbiamo vista recitare: al cinema in Te l'avevo detto di Ginevra Elkann e in Finalmente l'alba di Saverio Costanzo, a teatro tra i protagonisti del musical Aggiungi un posto a tavola. Ora arriva il ==primo singolo==, Diluvio, in uscita venerdì 16 ottobre.",
+     "La canzone parte da un'idea semplice: dentro ognuno ci sono ((più versioni di sé)), quella che mostriamo, quella che vorremmo essere e quelle che nascondiamo. Il diluvio è l'ondata emotiva che le porta tutte a galla.",
+     "Il video è firmato da __Salvatore De Chirico__: luce, colore e texture trasformano il volto e il corpo di Sofia in paesaggi emotivi. ==*Un nome da seguire.*=="
+    ],
+    "en": {
+     "title": "Sofia Panizzi turns to music: *her first single is Diluvio*",
+     "dek": "The 28-year-old Roman actress debuts on Friday 16 October with a song and a video.",
+     "body": [
+      "Sofia Panizzi is 28, from Rome, and until now we have seen her act: on screen in Ginevra Elkann's Te l'avevo detto and Saverio Costanzo's Finalmente l'alba, on stage as one of the leads of the musical Aggiungi un posto a tavola. Now comes her ==first single==, Diluvio, out on Friday 16 October.",
+      "The song starts from a simple idea: inside everyone there are ((several versions of ourselves)), the one we show, the one we would like to be and the ones we hide. The flood is the emotional wave that brings them all to the surface.",
+      "The video is directed by __Salvatore De Chirico__: light, colour and texture turn Sofia's face and body into emotional landscapes. ==*A name to follow.*=="
+     ]
+    },
+    "sources": [
+     {
+      "name": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/10/13/sofia-panizzi-debutta-nella-musica-con-diluvio-il-suo-primo-singolo_71de7b2e-e8c8-4e0f-bcaf-e890cfb77e1d.html"
+     }
+    ]
+   },
+   {
+    "id": "gaia-senzallegria",
+    "date": "2026-10-13",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Gaia sceglie la gioia: *Senz'allegria esce venerdì*",
+    "dek": "Il nuovo singolo arriva il 16 ottobre, tra spiritualità brasiliana e mare.",
+    "body": [
+     "Gaia ha annunciato il nuovo singolo Senz'allegria, in uscita ==venerdì 16 ottobre== su piattaforme e radio per Columbia Records/Sony Music Italy. Lo ha scritto con Riccardo Zanotti e Paga, che lo produce con Madfingerz.",
+     "Il titolo gioca al contrario: la gioia qui è una ((scelta consapevole)), quasi un atto rivoluzionario in un tempo di divisioni e paura. Dentro ci sono i riti del Candomblé e il mare come rinascita, con un richiamo a __Iemanjá__, divinità delle acque. Nel coro canta anche la sua famiglia."
+    ],
+    "en": {
+     "title": "Gaia chooses joy: *Senz'allegria is out Friday*",
+     "dek": "The new single arrives on 16 October, between Brazilian spirituality and the sea.",
+     "body": [
+      "Gaia has announced her new single Senz'allegria, out ==on Friday 16 October== on streaming and radio via Columbia Records/Sony Music Italy. She wrote it with Riccardo Zanotti and Paga, who produces it with Madfingerz.",
+      "The title works in reverse: joy here is a ((conscious choice)), almost a revolutionary act in a time of division and fear. It draws on Candomblé rituals and the sea as rebirth, with a nod to __Iemanjá__, the goddess of the waters. Her family sings in the choir."
+     ]
+    },
+    "sources": [
+     {
+      "name": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/10/13/gaia-annuncia-il-nuovo-singolo-senzallegria-in-uscita-il-16-ottobre_26ce2296-afd3-4341-9363-32c0ee52a625.html"
+     }
+    ]
+   },
+   {
+    "id": "gucci-mane-against-all-odds",
+    "date": "2026-10-12",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Gucci Mane a sorpresa: *Against All Odds esce venerdì*",
+    "dek": "Annunciato su Instagram con pochi giorni di preavviso, arriva il 16 ottobre.",
+    "body": [
+     "Gucci Mane ha annunciato il nuovo album ==Against All Odds== con un post su Instagram: esce venerdì 16 ottobre, quasi senza preavviso. Tracklist e ospiti sono ancora un mistero.",
+     "Il veterano di __Atlanta__ torna così a ottobre, il suo mese: un anno fa Episodes era uscito insieme a un libro di memorie, stavolta ((niente cornice)), solo musica. *Venerdì si ascolta.*"
+    ],
+    "en": {
+     "title": "Gucci Mane surprise: *Against All Odds drops Friday*",
+     "dek": "Announced on Instagram with only a few days' notice, it arrives on 16 October.",
+     "body": [
+      "Gucci Mane has announced his new album ==Against All Odds== in an Instagram post: it drops on Friday 16 October, with almost no warning. Tracklist and guests are still a mystery.",
+      "The __Atlanta__ veteran is back in October, his month: a year ago Episodes came out alongside a memoir, this time ((no framing)), just music. *Friday we listen.*"
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1012837-gucci-mane-against-all-odds-announcement"
+     }
+    ]
+   },
+   {
+    "id": "drake-toliver-solar-eclipse",
+    "date": "2026-10-12",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Drake spinge Don Toliver: *Solar Eclipse è quinta*",
+    "dek": "Il brano entra al numero 5 della Hot 100, il miglior risultato di sempre per Don Toliver.",
+    "body": [
+     "Solar Eclipse, di Drake con Don Toliver, è al ==numero 5== della Billboard Hot 100: per Don Toliver è il singolo più alto di sempre, per Drake è la __91ª top 10__, record che allunga ancora.",
+     "Il brano sta nella deluxe Habibti (FOMO), quattro pezzi in più fatti ascoltare in diretta a settembre. È anche un ((remix)) di Choosin' Texas di Ella Langley: rap e country nella stessa traccia."
+    ],
+    "en": {
+     "title": "Drake lifts Don Toliver: *Solar Eclipse hits number five*",
+     "dek": "The track enters the Hot 100 at number 5, Don Toliver's best result ever.",
+     "body": [
+      "Solar Eclipse, by Drake with Don Toliver, sits at ==number 5== on the Billboard Hot 100: Don Toliver's highest single ever, and Drake's __91st top 10__, a record he keeps extending.",
+      "The track is on the deluxe Habibti (FOMO), four extra songs first played on a September livestream. It is also a ((remix)) of Ella Langley's Choosin' Texas: rap and country in the same track."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1012820-drake-don-toliver-solar-eclipse-billboard-hot-100"
+     }
+    ]
+   },
+   {
+    "id": "doechii-debutto",
+    "date": "2026-10-13",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Doechii scrive a mano: *il primo album prende forma*",
+    "dek": "Una lettera ai fan sul disco d'esordio in studio, tra hip hop e pop.",
+    "body": [
+     "Doechii ha condiviso un messaggio scritto a mano sul suo ==primo album in studio==: titolo e data ancora non ci sono, la direzione sì.",
+     "Racconta di aver passato gli ultimi anni a ((ristudiare l'hip hop)) da allieva, e ora vuole allargarlo a generi e suoni diversi. L'obiettivo: mettere le donne nere __al centro__ di hip hop e pop."
+    ],
+    "en": {
+     "title": "Doechii writes by hand: *the debut album takes shape*",
+     "dek": "A letter to fans about her first studio album, between hip hop and pop.",
+     "body": [
+      "Doechii has shared a handwritten message about her ==debut studio album==: no title or date yet, but the direction is clear.",
+      "She says she spent the last few years ((relearning hip hop)) as a student, and now wants to stretch it across different genres and sounds. The goal: putting Black women __at the centre__ of hip hop and pop."
+     ]
+    },
+    "sources": [
+     {
+      "name": "The Source",
+      "url": "https://thesource.com/2026/10/13/doechii-swamp-sessions-debut-album-update/"
+     }
+    ]
+   },
+   {
+    "id": "hard-rock-cult",
+    "date": "2026-10-13",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Hard Rock e Cult of Individuality: *denim con French Montana*",
+    "dek": "La capsule tra rock e hip hop arriva anche nei negozi europei, Venezia compresa.",
+    "body": [
+     "Hard Rock Cafe e il marchio streetwear Cult of Individuality hanno lanciato una ==capsule in edizione limitata== che mescola rock, hip hop e denim di qualità. La direzione creativa è del designer afro-latino Angelo Rosa.",
+     "I volti della campagna sono __French Montana__, Sean Paul, DaniLeigh e il rapper britannico Giggs, proiettati anche sul maxischermo di Times Square. Ricami, floccature e stampe reinterpretano le grafiche di Hard Rock, ((non solo il logo)). Dopo gli Stati Uniti la collezione è arrivata in Europa, anche a *Venezia*."
+    ],
+    "en": {
+     "title": "Hard Rock and Cult of Individuality: *denim with French Montana*",
+     "dek": "The rock and hip hop capsule also reaches European stores, Venice included.",
+     "body": [
+      "Hard Rock Cafe and streetwear label Cult of Individuality have launched a ==limited-edition capsule== mixing rock, hip hop and premium denim. Creative direction is by Afro-Latino designer Angelo Rosa.",
+      "The campaign faces are __French Montana__, Sean Paul, DaniLeigh and British rapper Giggs, also shown on the big screen in Times Square. Embroidery, flocking and prints reinterpret Hard Rock's imagery, ((not just the logo)). After the US the collection has reached Europe, *Venice* included."
+     ]
+    },
+    "sources": [
+     {
+      "name": "The Source",
+      "url": "https://thesource.com/2026/10/13/hard-rock-x-cult-go-global-with-afro-latino-designer-angelo-rosa-featuring-french-montana-sean-paul-and-more/"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-13",
   "n": 4,
   "items": [
