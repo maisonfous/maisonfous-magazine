@@ -1,5 +1,173 @@
 [
  {
+  "date": "2026-10-15",
+  "n": 6,
+  "items": [
+   {
+    "id": "aromatica-solo-di-passaggio",
+    "date": "2026-10-15",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Aromatica, quattro ragazzi da Bologna: *il primo singolo*",
+    "dek": "Solo Di Passaggio è l'esordio di una band nata a gennaio, tra indie, urban e rap.",
+    "body": [
+     "Gli Aromatica sono quattro ragazzi tra i ==21 e i 25 anni==. Il progetto nasce a __Bologna__ a gennaio 2026 e mescola tecnica strumentale con indie, urban, pop e rap.",
+     "Il primo singolo si chiama Solo Di Passaggio ed è uscito venerdì 9 ottobre. Per la band è quasi un ((manifesto)): accettare che tutto è temporaneo. Hanno altro materiale pronto. ==*Da tenere d'occhio.*=="
+    ],
+    "en": {
+     "title": "Aromatica, four guys from Bologna: *their first single*",
+     "dek": "Solo Di Passaggio is the debut of a band formed in January, between indie, urban and rap.",
+     "body": [
+      "Aromatica are four guys aged ==21 to 25==. The project started in __Bologna__ in January 2026 and blends instrumental skill with indie, urban, pop and rap.",
+      "Their first single is called Solo Di Passaggio and came out on Friday 9 October. For the band it is almost a ((manifesto)): accepting that everything is temporary. They have more material ready. ==*One to watch.*=="
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/aromatica-solo-di-passaggio-significato.html"
+     }
+    ]
+   },
+   {
+    "id": "pinguini-replay",
+    "date": "2026-10-14",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Pinguini Tattici Nucleari: *il sesto album è Replay*",
+    "dek": "Esce il 4 dicembre, poi undici date negli stadi nell'estate 2027.",
+    "body": [
+     "Il nuovo album dei Pinguini Tattici Nucleari si chiama ==Replay== ed esce il 4 dicembre per Epic/Sony. L'idea: quali momenti della vita finirebbero negli highlights, come in una partita.",
+     "Il disco ha tre anime, ((passato, presente e futuro)), e tante storie vere. Poi gli stadi: __11 date__ dal 4 giugno 2027 a Bibione all'8 luglio all'Olimpico di Roma."
+    ],
+    "en": {
+     "title": "Pinguini Tattici Nucleari: *the sixth album is Replay*",
+     "dek": "Out on 4 December, followed by eleven stadium dates in summer 2027.",
+     "body": [
+      "The new Pinguini Tattici Nucleari album is called ==Replay== and comes out on 4 December on Epic/Sony. The idea: which moments of a life would make the highlights, like in a football match.",
+      "The record has three souls, ((past, present and future)), and lots of true stories. Then the stadiums: __11 dates__ from 4 June 2027 in Bibione to 8 July at Rome's Olimpico."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/pinguini-tattici-nucleari-replay.html"
+     }
+    ]
+   },
+   {
+    "id": "angelina-mango-vita-da-adulti",
+    "date": "2026-10-14",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Angelina Mango cresce: *Vita da adulti esce venerdì*",
+    "dek": "Il nuovo singolo arriva il 16 ottobre, un anno esatto dopo l'album caramé.",
+    "body": [
+     "Angelina Mango ha annunciato il nuovo singolo ==Vita da adulti==, in uscita venerdì 16 ottobre. La data non è a caso: è passato un anno esatto da caramé.",
+     "Prima un piccolo teaser: lei invitata a un ((matrimonio)), di spalle, che si gira di scatto sugli archi. Poi la foto in __abito viola__ davanti a una tribuna."
+    ],
+    "en": {
+     "title": "Angelina Mango grows up: *Vita da adulti is out Friday*",
+     "dek": "The new single arrives on 16 October, exactly one year after the album caramé.",
+     "body": [
+      "Angelina Mango has announced her new single ==Vita da adulti==, out on Friday 16 October. The date is no accident: it is exactly one year since caramé.",
+      "First a short teaser: her as a guest at a ((wedding)), seen from behind, turning sharply over strings. Then the photo in a __purple dress__ in front of a grandstand."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/angelina-mango-vita-da-adulti-testo-significato.html"
+     }
+    ]
+   },
+   {
+    "id": "jayz-la-popup",
+    "date": "2026-10-13",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "JAY-Z apre a Los Angeles: *il pop-up di Reasonable Doubt*",
+    "dek": "Trent'anni del primo album, aspettando due serate al SoFi Stadium.",
+    "body": [
+     "Per i ==30 anni== di Reasonable Doubt, JAY-Z ha aperto un pop-up a __Los Angeles__, aperto ogni giorno fino al 22 ottobre. Dentro giacche varsity degli Yankees, magliette JAY-Z30 e un muro '96 & Forever.",
+     "Poi il palco: il 23 e il 24 ottobre al SoFi Stadium, i suoi primi concerti da solista a Los Angeles da ((otto anni)). La seconda data è arrivata per la troppa richiesta."
+    ],
+    "en": {
+     "title": "JAY-Z opens in Los Angeles: *the Reasonable Doubt pop-up*",
+     "dek": "Thirty years of his first album, ahead of two nights at SoFi Stadium.",
+     "body": [
+      "For the ==30th anniversary== of Reasonable Doubt, JAY-Z has opened a pop-up in __Los Angeles__, open daily until 22 October. Inside: Yankees varsity jackets, JAY-Z30 T-shirts and a '96 & Forever wall.",
+      "Then the stage: 23 and 24 October at SoFi Stadium, his first solo shows in Los Angeles in ((eight years)). The second night was added because of demand."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1012926-jay-z-los-angeles-popup-music-news"
+     }
+    ]
+   },
+   {
+    "id": "eminem-nuovo-album",
+    "date": "2026-10-13",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Eminem lavora a un disco: *lo lascia sfuggire 50 Cent*",
+    "dek": "Alla prima di Street Fighter: Eminem ha saltato la colonna sonora per l'album.",
+    "body": [
+     "Alla prima del film Street Fighter, 50 Cent ha raccontato che Eminem doveva essere nella ==colonna sonora==, ma si è tirato indietro per concentrarsi sul suo ((nuovo album)).",
+     "Eminem non ha confermato né smentito, e una data non c'è. Dall'ultimo disco, The Death of Slim Shady, sono passati __due anni__."
+    ],
+    "en": {
+     "title": "Eminem is working on a record: *50 Cent lets it slip*",
+     "dek": "At the Street Fighter premiere: Eminem skipped the soundtrack for his album.",
+     "body": [
+      "At the premiere of the film Street Fighter, 50 Cent said Eminem was meant to be on the ==soundtrack==, but pulled out to focus on his ((new album)).",
+      "Eminem has neither confirmed nor denied it, and there is no date. It has been __two years__ since his last record, The Death of Slim Shady."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1012915-eminem-50-cent-new-album-street-fighter-soundtrack"
+     }
+    ]
+   },
+   {
+    "id": "bad-bunny-gazelle-solar-gold",
+    "date": "2026-10-14",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Bad Bunny e adidas: *la Gazelle color tramonto*",
+    "dek": "La Gazelle Indoor Solar Gold esce in tutto il mondo il 17 ottobre.",
+    "body": [
+     "Nuovo capitolo tra Bad Bunny e adidas Originals: la Gazelle Indoor ==Solar Gold==, ispirata ai tramonti dorati dei Caraibi. Camoscio giallo miele, fodera in pelle e suola in __gomma__.",
+     "Esce il ((17 ottobre)) in tutto il mondo. La serie era partita nel 2024 con la San Juan blu, dedicata a Porto Rico."
+    ],
+    "en": {
+     "title": "Bad Bunny and adidas: *the sunset Gazelle*",
+     "dek": "The Gazelle Indoor Solar Gold drops worldwide on 17 October.",
+     "body": [
+      "A new chapter for Bad Bunny and adidas Originals: the Gazelle Indoor ==Solar Gold==, inspired by golden Caribbean sunsets. Honey-yellow suede, leather lining and a __gum__ sole.",
+      "It drops on ((17 October)) worldwide. The series began in 2024 with the blue San Juan, dedicated to Puerto Rico."
+     ]
+    },
+    "sources": [
+     {
+      "name": "The Source",
+      "url": "https://thesource.com/2026/10/14/adidas-originals-bad-bunny-gazelle-indoor-solar-gold/"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-14",
   "n": 5,
   "items": [
