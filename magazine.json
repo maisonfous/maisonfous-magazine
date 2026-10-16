@@ -1,5 +1,162 @@
 [
  {
+  "date": "2026-10-16",
+  "n": 7,
+  "items": [
+   {
+    "id": "jagwari-spiccio",
+    "date": "2026-10-16",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Jagwari, punk tra Genova e Milano: *esce Spiccio*",
+    "dek": "Meno di due minuti sul lavoro precario: è il primo singolo del loro album d'esordio.",
+    "body": [
+     "I Jagwari sono una band divisa tra __Genova e Milano__ che mescola punk, garage rock e post-punk. Dopo due EP e i palchi aperti per Jack White e The Hives, preparano il primo album, atteso nella prima metà del 2027.",
+     "Spiccio esce oggi con un video girato nella sala prove, raccontata come l'unica casa che possono permettersi. Parla di ==precariato e ansia==, una cosa in cui, dicono, ((tutti i trentenni)) si possono riconoscere."
+    ],
+    "en": {
+     "title": "Jagwari, punk between Genoa and Milan: *Spiccio is out*",
+     "dek": "Under two minutes about precarious work: the first single from their debut album.",
+     "body": [
+      "Jagwari are a band split between __Genoa and Milan__, mixing punk, garage rock and post-punk. After two EPs and opening slots for Jack White and The Hives, they are preparing their first album, due in the first half of 2027.",
+      "Spiccio is out today with a video shot in their rehearsal room, framed as the only home they can afford. It is about ==precarious work and anxiety==, something they say ((every thirty-something)) can recognise."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Billboard Italia",
+      "url": "https://billboard.it/musica/rock/jagwari-anteprima-spiccio/2026/10/15211475/"
+     },
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/nuove-uscite/radio-date/new-music-friday-radio-date-16-10-2026.html"
+     }
+    ]
+   },
+   {
+    "id": "carl-brave-odissea",
+    "date": "2026-10-16",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Carl Brave guarda indietro: *esce Odissea*",
+    "dek": "Una ballad da club, intima, che viaggia dentro i ricordi invece che verso casa.",
+    "body": [
+     "Il cantautore e produttore romano torna oggi con ==Odissea==, per Warner. È una ballad da club, raccolta e sospesa.",
+     "Il viaggio del titolo non è un ritorno a casa ma un giro tra ((ricordi, persone e luoghi)). Non nostalgia: il passato __visto con gli occhi di oggi__."
+    ],
+    "en": {
+     "title": "Carl Brave looks back: *Odissea is out*",
+     "dek": "An intimate club ballad that travels through memories rather than back home.",
+     "body": [
+      "The Roman singer-songwriter and producer returns today with ==Odissea==, on Warner. It is a club ballad, quiet and suspended.",
+      "The journey in the title is not a trip home but a tour of ((memories, people and places)). Not nostalgia: the past __seen through today's eyes__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "EG Magazine",
+      "url": "https://www.egmagazine.it/2026/10/15/carl-brave-torna-con-odissea-il-nuovo-singolo-in-uscita-il-16-ottobre/"
+     },
+     {
+      "name": "Cromosomi",
+      "url": "https://www.cromosomimedia.com/2026/10/14/odissea-carl-brave-torna-il-16-ottobre-con-una-ballad-intima-ed-evocativa/"
+     }
+    ]
+   },
+   {
+    "id": "geolier-atto-ii",
+    "date": "2026-10-16",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Geolier raddoppia: *esce Tutto è possibile. Atto II*",
+    "dek": "Il secondo capitolo del disco di gennaio, prima dei sei stadi già esauriti a Napoli.",
+    "body": [
+     "Oggi esce ==Tutto è possibile. Atto II==, il secondo capitolo dell'album uscito a gennaio, già quadruplo platino. L'ultimo singolo, Per noi con Achille Lauro, è partito primo su Apple Music.",
+     "Il disco arriva prima di ((Napoli è casa tua)): sei date nel 2027 allo stadio Maradona, __tutte esaurite__ subito."
+    ],
+    "en": {
+     "title": "Geolier doubles up: *Tutto è possibile. Atto II is out*",
+     "dek": "The second chapter of January's album, ahead of six sold-out stadium shows in Naples.",
+     "body": [
+      "Out today is ==Tutto è possibile. Atto II==, the second chapter of the album released in January, already quadruple platinum. The latest single, Per noi with Achille Lauro, debuted at number one on Apple Music.",
+      "The record comes ahead of ((Napoli è casa tua)): six 2027 dates at the Maradona stadium, __all sold out__ straight away."
+     ]
+    },
+    "sources": [
+     {
+      "name": "QdS / askanews",
+      "url": "https://qds.it/in-arrivo-il-16-ottobre-tutto-e-possibile-atto-ii-di-geolier/"
+     },
+     {
+      "name": "Libero Magazine",
+      "url": "https://www.libero.it/magazine/news/nuovi-album-musica-in-uscita-ottobre-2026-224945"
+     }
+    ]
+   },
+   {
+    "id": "wale-capsole",
+    "date": "2026-10-16",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Wale entra nel business delle sneaker: *diventa socio di CapSole*",
+    "dek": "Il rapper di Washington è co-proprietario e direttore creativo del marchio.",
+    "body": [
+     "Wale è ora ==co-proprietario e direttore creativo== di CapSole, il marchio che conserva le sneaker in capsule sigillate contro ingiallimento e suole che si sbriciolano.",
+     "Non voleva una semplice sponsorizzazione ma ((una voce in azienda)): guiderà immagine, collaborazioni e crescita. Le quote __non sono state rese note__."
+    ],
+    "en": {
+     "title": "Wale gets into the sneaker business: *he becomes a CapSole partner*",
+     "dek": "The Washington rapper is co-owner and creative director of the brand.",
+     "body": [
+      "Wale is now ==co-owner and creative director== of CapSole, the brand that stores sneakers in sealed pods against yellowing and crumbling soles.",
+      "He did not want a simple endorsement but ((a voice in the company)): he will lead image, partnerships and growth. His stake __was not disclosed__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1013161-wale-becomes-co-owner-of-capsole-sneaker-news"
+     }
+    ]
+   },
+   {
+    "id": "tyler-barcellona-clasico",
+    "date": "2026-10-16",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Tyler, The Creator sulla maglia del Barça: *GOLF per il Clásico*",
+    "dek": "Il logo del suo marchio al posto dello sponsor, il 25 ottobre contro il Real Madrid.",
+    "body": [
+     "Per il Clásico del 25 ottobre il Barcellona avrà sul petto il logo ==GOLF== di Tyler, al posto di quello dello sponsor. È il ((nono artista)) della serie, dopo Drake, Coldplay e Olivia Rodrigo.",
+     "Tyler ha diretto anche il corto della campagna. Con la maglia arriva una __capsule GOLF WANG__ col club: giacca college, tuta e sciarpa, in negozio da ieri."
+    ],
+    "en": {
+     "title": "Tyler, The Creator on Barça's shirt: *GOLF for El Clásico*",
+     "dek": "His label's logo replaces the sponsor's, on 25 October against Real Madrid.",
+     "body": [
+      "For El Clásico on 25 October, Barcelona will wear Tyler's ==GOLF== logo on the chest instead of the sponsor's. He is the ((ninth artist)) in the series, after Drake, Coldplay and Olivia Rodrigo.",
+      "Tyler also directed the campaign's short film. Alongside the shirt comes a __GOLF WANG capsule__ with the club: letterman jacket, tracksuit and scarf, in stores since yesterday."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1013155-tyler-the-creator-barcelona-jerseys-streetwear-news"
+     },
+     {
+      "name": "Footy Headlines",
+      "url": "https://www.footyheadlines.com/9733082472/fc-barcelona-26-27-tyler-the-creator-golf-wang-kit-edition-released.html"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-15",
   "n": 6,
   "items": [
