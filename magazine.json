@@ -1,5 +1,162 @@
 [
  {
+  "date": "2026-10-17",
+  "n": 8,
+  "items": [
+   {
+    "id": "novepercento-carmen",
+    "date": "2026-10-17",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "novepercento, dal coro dell'Opera alla cassa dritta: *esce Carmen*",
+    "dek": "Il primo singolo di Carlotta Migliaccio, 24 anni, mescola folklore italiano e club.",
+    "body": [
+     "Dietro novepercento c'è Carlotta Migliaccio, nata a Roma nel 2002. A sette anni cantava nel ((coro dell'Opera)), poi ha lasciato la lirica e a quattordici scriveva già le sue canzoni. Oggi vive a Milano.",
+     "Carmen è il suo esordio: suoni della tradizione popolare su una ==cassa dritta==. Nel video la vita di tutti i giorni diventa assurda, con __preti e suore che ballano__. ==*Da sentire subito.*=="
+    ],
+    "en": {
+     "title": "novepercento, from the Opera choir to four-on-the-floor: *Carmen is out*",
+     "dek": "The first single by 24-year-old Carlotta Migliaccio blends Italian folklore and club.",
+     "body": [
+      "Behind novepercento is Carlotta Migliaccio, born in Rome in 2002. At seven she sang in the ((Opera choir)), then left classical singing and was writing her own songs by fourteen. She now lives in Milan.",
+      "Carmen is her debut: folk sounds over a ==four-on-the-floor beat==. In the video everyday life turns absurd, with __priests and nuns dancing__. ==*Listen right away.*=="
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/novepercento-carmen-singolo-debutto.html"
+     },
+     {
+      "name": "All Music Italia, pagelle 16 ottobre",
+      "url": "https://www.allmusicitalia.it/pagelle-nuovi-singoli/pagelle-nuovi-singoli-16-ottobre-angelina-mango-promossa-baby-gang-bocciato-due-golden-song.html"
+     }
+    ]
+   },
+   {
+    "id": "mannoia-anime-salve",
+    "date": "2026-10-17",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Fiorella Mannoia canta De André e Fossati: *arriva Anime Salve*",
+    "dek": "Diciotto canzoni registrate dal vivo a Genova, in uscita il 27 novembre.",
+    "body": [
+     "Il concerto dedicato a De André e Fossati diventa un disco: ==Anime Salve== esce il 27 novembre, con __18 canzoni__ registrate dal vivo al Teatro Carlo Felice di Genova.",
+     "Sono passati trent'anni dall'album Anime salve del 1996. Dentro ci sono Dolcenera, Don Raffaè, Il pescatore e ((La canzone di Marinella)). Il tour d'autunno chiude il 3 dicembre a Lecce."
+    ],
+    "en": {
+     "title": "Fiorella Mannoia sings De André and Fossati: *Anime Salve is coming*",
+     "dek": "Eighteen songs recorded live in Genoa, out on 27 November.",
+     "body": [
+      "Her concert devoted to De André and Fossati becomes a record: ==Anime Salve== comes out on 27 November, with __18 songs__ recorded live at the Teatro Carlo Felice in Genoa.",
+      "It is thirty years since the 1996 album Anime salve. It includes Dolcenera, Don Raffaè, Il pescatore and ((La canzone di Marinella)). The autumn tour ends on 3 December in Lecce."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/fiorella-mannoia-anime-salve-album.html"
+     },
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-761857/fiorella-mannoia-in-arrivo-il-live-anime-salve"
+     }
+    ]
+   },
+   {
+    "id": "jovanotti-film-lorenzo",
+    "date": "2026-10-17",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Jovanotti diventa un film: *Lorenzo debutta alla Festa di Roma*",
+    "dek": "La radio, la famiglia, la bici e Rick Rubin: al cinema dal 26 novembre.",
+    "body": [
+     "LORENZO, L'incredibile avventura di Jovanotti è stato presentato ieri alla ==Festa del Cinema di Roma==. Arriva nelle sale come evento speciale __dal 26 novembre al 2 dicembre__.",
+     "Si parte dalla radio in uno scantinato a 14 anni, poi la famiglia, l'incidente in bici e lo studio con ((Rick Rubin)), che gli chiede di togliere invece di aggiungere."
+    ],
+    "en": {
+     "title": "Jovanotti becomes a film: *Lorenzo premieres at the Rome Film Fest*",
+     "dek": "Radio, family, the bike and Rick Rubin: in cinemas from 26 November.",
+     "body": [
+      "LORENZO, L'incredibile avventura di Jovanotti premiered yesterday at the ==Rome Film Fest==. It reaches cinemas as a special event __from 26 November to 2 December__.",
+      "It starts with a basement radio station at 14, then family, the bike accident and studio time with ((Rick Rubin)), who asks him to take away instead of adding."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/lorenzo-film-jovanotti-cosa-racconta.html"
+     }
+    ]
+   },
+   {
+    "id": "rodrigo-roan-expectations",
+    "date": "2026-10-17",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Olivia Rodrigo chiama Chappell Roan: *fuori il remix di expectations*",
+    "dek": "È il primo featuring della carriera di Chappell Roan, con produzione di Daniel Nigro.",
+    "body": [
+     "Le due amiche finalmente insieme: il remix di ==expectations==, dal terzo album di Olivia Rodrigo, è uscito giovedì con un video in cui ci sono entrambe.",
+     "Per Chappell Roan è ((il primo featuring)) di sempre. Produce __Daniel Nigro__, che lavora con tutte e due. C'è anche in vinile 7 pollici, CD e cassetta."
+    ],
+    "en": {
+     "title": "Olivia Rodrigo calls Chappell Roan: *the expectations remix is out*",
+     "dek": "It is Chappell Roan's first ever feature, produced by Daniel Nigro.",
+     "body": [
+      "The two friends finally together: the remix of ==expectations==, from Olivia Rodrigo's third album, came out on Thursday with a video starring both.",
+      "For Chappell Roan it is ((her first feature)) ever. __Daniel Nigro__, who works with both, produces. It also comes on 7-inch vinyl, CD and cassette."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Clash",
+      "url": "https://www.clashmusic.com/news/olivia-rodrigo-chappell-roan-confirm-expectations-remix/"
+     },
+     {
+      "name": "SPIN",
+      "url": "https://www.spinmagazine.com/2026/10/olivia-rodrigo-chappell-roan-expectations/"
+     }
+    ]
+   },
+   {
+    "id": "ganni-lululemon-mette",
+    "date": "2026-10-17",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Ganni e lululemon ballano anni '80: *in campagna c'è Mette*",
+    "dek": "Ventidue pezzi in leopardato per chi si allena come in una sala da ballo.",
+    "body": [
+     "Ganni e lululemon hanno lanciato ieri una collezione insieme: __22 pezzi__ tra abbigliamento, accessori e scarpe, costruiti sul ==leopardato== di Ganni e sull'energia della danza anni '80.",
+     "La campagna si chiama JOY IS A POWER MOVE. La guidano l'attrice di Flashdance Jennifer Beals e ((la cantante e ballerina Mette))."
+    ],
+    "en": {
+     "title": "Ganni and lululemon dance through the '80s: *Mette stars in the campaign*",
+     "dek": "Twenty-two leopard-print pieces for working out like on a dance floor.",
+     "body": [
+      "Ganni and lululemon launched a joint collection yesterday: __22 pieces__ across clothing, accessories and shoes, built on Ganni's ==leopard print== and the energy of '80s dance.",
+      "The campaign is called JOY IS A POWER MOVE. It is led by Flashdance actor Jennifer Beals and ((singer and dancer Mette))."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Fashionista",
+      "url": "https://fashionista.com/shopping/best-beauty-fashion-launches-collaborations-october-16"
+     },
+     {
+      "name": "RUSSH",
+      "url": "https://www.russh.com/fashion-news-october-2026/"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-16",
   "n": 7,
   "items": [
