@@ -1,5 +1,150 @@
 [
  {
+  "date": "2026-10-19",
+  "n": 10,
+  "items": [
+   {
+    "id": "te-quiero-euridice-prato-fiorito",
+    "date": "2026-10-19",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Te quiero Euridice cambiano strada: *esce Prato fiorito*",
+    "dek": "Il duo nato in un liceo della Pianura Padana anticipa l'EP Geografie, in uscita il 6 novembre.",
+    "body": [
+     "Te quiero Euridice sono Bri e Pitti, entrambi del 1998, conosciuti tra i banchi di un liceo della ==Pianura Padana==. Dopo l'album Sempre qui e l'EP Sistemi lineari, sono passati a Futura Dischi.",
+     "Il nuovo singolo Prato fiorito, dicono, segna ((un cambio di direzione)): atmosfere più essenziali, immagini e contrasti. L'EP __Geografie__ esce il 6 novembre."
+    ],
+    "en": {
+     "title": "Te quiero Euridice change course: *Prato fiorito is out*",
+     "dek": "The duo who met at a school in the Po Valley preview the EP Geografie, out on 6 November.",
+     "body": [
+      "Te quiero Euridice are Bri and Pitti, both born in 1998, who met at a secondary school in the ==Po Valley==. After the album Sempre qui and the EP Sistemi lineari, they moved to Futura Dischi.",
+      "Their new single Prato fiorito, they say, marks ((a change of direction)): sparer moods, images and contrasts. The EP __Geografie__ comes out on 6 November."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/te-quiero-euridice-prato-fiorito-significato.html"
+     }
+    ]
+   },
+   {
+    "id": "zen-circus-tour-2027",
+    "date": "2026-10-19",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "The Zen Circus tornano nei club: *la scaletta la sceglie il pubblico*",
+    "dek": "Ventitré date da gennaio a marzo 2027, da Livorno a Bari.",
+    "body": [
+     "Il nuovo tour dei Zen Circus parte il 15 gennaio 2027 da Livorno e chiude il 20 marzo a Bari: ==23 date nei club==, con tre sere a Milano, Bologna e Roma.",
+     "La novità è la scaletta: ogni sera ((la votano gli spettatori)) sul sito della band. Il nome del giro è tutto un programma: __E allora FATE VOI__."
+    ],
+    "en": {
+     "title": "The Zen Circus return to the clubs: *the crowd picks the setlist*",
+     "dek": "Twenty-three dates from January to March 2027, from Livorno to Bari.",
+     "body": [
+      "The Zen Circus's new tour starts on 15 January 2027 in Livorno and ends on 20 March in Bari: ==23 club dates==, with three nights each in Milan, Bologna and Rome.",
+      "The twist is the setlist: each night ((the audience votes on it)) on the band's website. The tour's name says it all: __E allora FATE VOI__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/tour/the-zen-circus-tour-2027.html"
+     }
+    ]
+   },
+   {
+    "id": "eugenio-in-via-di-gioia-n-oi",
+    "date": "2026-10-19",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Eugenio in Via Di Gioia ripartono: *l'EP N OI e il primo Forum*",
+    "dek": "Sei brani, sette club da novembre e il 5 maggio 2027 la prima volta ad Assago.",
+    "body": [
+     "È uscito ==N OI==, il nuovo EP di sei brani, con Ciao bella Italia cantata insieme al Piccolo Coro dell'Antoniano. Il titolo? Per loro è un nuovo inizio, un numero uno.",
+     "Dal 16 novembre sette date nei club, poi il ((primo Forum di Assago)) il __5 maggio 2027__. E su Sanremo: nessuna fretta, chiamateci."
+    ],
+    "en": {
+     "title": "Eugenio in Via Di Gioia start again: *the EP N OI and their first Forum*",
+     "dek": "Six tracks, seven club dates from November and, on 5 May 2027, their Assago debut.",
+     "body": [
+      "==N OI== is out, the new six-track EP, with Ciao bella Italia sung alongside the Piccolo Coro dell'Antoniano. The title? For them it is a new start, a number one.",
+      "From 16 November, seven club dates, then their ((first Unipol Forum show)) on __5 May 2027__. And on Sanremo: no hurry, give us a call."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/interviste/eugenio-in-via-di-gioia-intervista-n-oi.html"
+     }
+    ]
+   },
+   {
+    "id": "lil-baby-fresh",
+    "date": "2026-10-19",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Lil Baby scopre le carte: *Fresh esce il 6 novembre*",
+    "dek": "Diciassette tracce, con Future, Young Thug, Rylo Rodriguez e un brano prodotto da Pharrell.",
+    "body": [
+     "Lil Baby ha svelato titolo, tracce e ospiti del nuovo album: si chiama ==Fresh== e ha __17 brani__. Esce il 6 novembre.",
+     "Tra gli ospiti ci sono ((Future e Young Thug)) in All My Patnas e Rylo Rodriguez in In Your Head. Dead Fresh è prodotta da Pharrell."
+    ],
+    "en": {
+     "title": "Lil Baby shows his hand: *Fresh drops on 6 November*",
+     "dek": "Seventeen tracks, with Future, Young Thug, Rylo Rodriguez and a Pharrell production.",
+     "body": [
+      "Lil Baby revealed the title, tracks and guests of his new album: it is called ==Fresh== and has __17 tracks__. It comes out on 6 November.",
+      "Guests include ((Future and Young Thug)) on All My Patnas and Rylo Rodriguez on In Your Head. Dead Fresh is produced by Pharrell."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1013538-lil-baby-features-new-album-fresh-dropping-soon"
+     }
+    ]
+   },
+   {
+    "id": "taylor-swift-dior-ophelia",
+    "date": "2026-10-19",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Taylor Swift in Dior azzurro: *The Fate Of Ophelia dal vivo*",
+    "dek": "Al gala dell'Academy Museum di Los Angeles, la prima esecuzione live del brano.",
+    "body": [
+     "Sabato al gala dell'Academy Museum di Los Angeles Taylor Swift indossava un abito Dior su misura di Jonathan Anderson: ==seta plissettata azzurro ghiaccio== con un fiocco ricamato sul petto.",
+     "Poi quattro canzoni, con la ((prima volta dal vivo)) di The Fate Of Ophelia e il brano scritto per __Toy Story 5__."
+    ],
+    "en": {
+     "title": "Taylor Swift in blue Dior: *The Fate Of Ophelia live*",
+     "dek": "At the Academy Museum gala in Los Angeles, the song's first live performance.",
+     "body": [
+      "On Saturday at the Academy Museum gala in Los Angeles, Taylor Swift wore a custom Dior gown by Jonathan Anderson: ==ice-blue pleated silk== with an embroidered bow on the chest.",
+      "Then four songs, including ((the first live performance)) of The Fate Of Ophelia and the song she wrote for __Toy Story 5__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2514902/taylor-swift-performs-the-fate-of-ophelia-live-for-the-first-time-at-academy-museum-gala/news"
+     },
+     {
+      "name": "Fashion Times",
+      "url": "https://www.fashiontimes.com/taylor-swift-stuns-custom-dior-gown-debuts-live-performance-2026-academy-museum-gala-15109"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-18",
   "n": 9,
   "items": [
