@@ -1,5 +1,146 @@
 [
  {
+  "date": "2026-10-20",
+  "n": 11,
+  "items": [
+   {
+    "id": "manuele-g-come-gigante",
+    "date": "2026-10-20",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Da MHANU a Manuelé: *il nuovo nome parte da G come Gigante*",
+    "dek": "Ventidue anni, da Castelfiorentino a Roma: meno parole, più musica.",
+    "body": [
+     "Manuel Siragusa ha 22 anni, viene da ==Castelfiorentino== e oggi vive a Roma. Pianoforte da quando ne aveva otto, poi il liceo musicale e i primi singoli come MHANU.",
+     "Ora cambia nome e diventa Manuelé. Il primo passo è G come Gigante, prodotto da nessunoMP3. Il suo programma: ((più musica, più visione)), __meno parole__."
+    ],
+    "en": {
+     "title": "From MHANU to Manuelé: *the new name starts with G come Gigante*",
+     "dek": "Twenty-two, from Castelfiorentino to Rome: fewer words, more music.",
+     "body": [
+      "Manuel Siragusa is 22, comes from ==Castelfiorentino== and now lives in Rome. Piano since he was eight, then a music high school and his first singles as MHANU.",
+      "Now he changes his name to Manuelé. The first step is G come Gigante, produced by nessunoMP3. His plan: ((more music, more vision)), __fewer words__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/manuele-g-come-gigante.html"
+     }
+    ]
+   },
+   {
+    "id": "cristiano-de-andre-best-of-2026",
+    "date": "2026-10-20",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Cristiano De André canta il padre: *cinque date a dicembre*",
+    "dek": "Il Best of Tour aggiunge Rovereto e Ragusa, dal 2 al 12 dicembre.",
+    "body": [
+     "Il ==Best of Tour 2026== di Cristiano De André si chiude con cinque concerti a dicembre: Brescia, Biella, Rovereto, Ragusa e Crotone. Rovereto e Ragusa sono __le date nuove__.",
+     "In scaletta le canzoni di Fabrizio De André dai quattro album del progetto, fino a ((Storia di un impiegato)) del 2023."
+    ],
+    "en": {
+     "title": "Cristiano De André sings his father: *five dates in December*",
+     "dek": "The Best of Tour adds Rovereto and Ragusa, from 2 to 12 December.",
+     "body": [
+      "Cristiano De André's ==Best of Tour 2026== ends with five December concerts: Brescia, Biella, Rovereto, Ragusa and Crotone. Rovereto and Ragusa are __the new dates__.",
+      "The setlist draws on Fabrizio De André songs from the project's four albums, up to ((Storia di un impiegato)) from 2023."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/tour/cristiano-de-andre-concerti-2026.html"
+     }
+    ]
+   },
+   {
+    "id": "vasco-spagnoli-addio",
+    "date": "2026-10-20",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Vasco e Diego Spagnoli si separano: *finisce dopo 44 anni*",
+    "dek": "Lo storico stage manager che presentava la band sul palco lascia la squadra.",
+    "body": [
+     "Diego Spagnoli era al fianco di Vasco Rossi dal 1982 e dal 1996 presentava la band sul palco. Ora la storia finisce, dopo ==una discussione durante le prove==.",
+     "Vasco ha spiegato la sua versione sui social, Spagnoli ha risposto che ((nessuno ha deciso)) la sua rinuncia. Sullo sfondo, le __dieci date all'Olimpico__ del 2027."
+    ],
+    "en": {
+     "title": "Vasco and Diego Spagnoli part ways: *it ends after 44 years*",
+     "dek": "The long-time stage manager who introduced the band on stage leaves the team.",
+     "body": [
+      "Diego Spagnoli had been at Vasco Rossi's side since 1982 and had introduced the band on stage since 1996. Now it is over, after ==an argument during rehearsals==.",
+      "Vasco gave his version on social media; Spagnoli replied that ((nobody decided)) his exit. In the background, the __ten Olimpico dates__ of 2027."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-761910/vasco-rossi-diego-spagnoli-cosa-e-successo-storia-di-un-addio"
+     }
+    ]
+   },
+   {
+    "id": "dominic-fike-pangea",
+    "date": "2026-10-20",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Dominic Fike, primo Top 10 dopo otto anni: *e arriva Pangea*",
+    "dek": "Babydoll, un demo del 2018, sale al decimo posto. Il nuovo album esce il 30 ottobre.",
+    "body": [
+     "Babydoll è un demo del 2018 tornato a girare quest'anno: ora è ==decima nella Hot 100==, il primo Top 10 di Dominic Fike.",
+     "Intanto esce Pangea, acustica e solare, con un video in idrovolante sopra Vancouver. Il terzo album, ((How To Quit Smoking)), arriva il __30 ottobre__."
+    ],
+    "en": {
+     "title": "Dominic Fike's first Top 10 after eight years: *and here's Pangea*",
+     "dek": "Babydoll, a 2018 demo, climbs to number ten. The new album is out 30 October.",
+     "body": [
+      "Babydoll is a 2018 demo that took off again this year: it is now ==number ten on the Hot 100==, Dominic Fike's first Top 10.",
+      "Meanwhile Pangea is out, acoustic and sunny, with a video shot in a seaplane over Vancouver. The third album, ((How To Quit Smoking)), lands on __30 October__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2515085/dominic-fike-shares-new-single-pangea-earns-first-top-10-hit-with-8-year-old-babydoll/music"
+     }
+    ]
+   },
+   {
+    "id": "ye-yzy-ab01",
+    "date": "2026-10-20",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Ye a Los Angeles con scarpe mai viste: *ecco la YZY AB-01*",
+    "dek": "Un modello non ancora uscito, in color sabbia, mentre Yeezy prepara la 800.",
+    "body": [
+     "Uscendo da un club di Los Angeles, Ye indossava la ==YZY AB-01== color sabbia, un modello non ancora in vendita, con jeans su misura di Noah Jeremiah.",
+     "Una data d'uscita ((ancora non c'è)). Per la sneaker Yeezy 800, invece, si parla di __dicembre__."
+    ],
+    "en": {
+     "title": "Ye in Los Angeles in unseen shoes: *meet the YZY AB-01*",
+     "dek": "An unreleased model in sand, while Yeezy prepares the 800.",
+     "body": [
+      "Leaving a Los Angeles club, Ye wore the ==YZY AB-01== in sand, a model not yet on sale, with custom jeans by Noah Jeremiah.",
+      "There is ((no release date yet)). The Yeezy 800 sneaker, on the other hand, is expected in __December__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1013672-ye-and-bianca-censori-living-room-club-streetwear-news"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-19",
   "n": 10,
   "items": [
