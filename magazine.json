@@ -1,5 +1,154 @@
 [
  {
+  "date": "2026-10-22",
+  "n": 13,
+  "items": [
+   {
+    "id": "kora-derealizzare",
+    "date": "2026-10-22",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Kora, classe 2005, dopo X Factor: *esce Derealizzare*",
+    "dek": "Un singolo scritto in una notte in bianco, sull'isolamento. Venerdì il debutto dal vivo a Milano.",
+    "body": [
+     "Kora è nata nel 2005. A X Factor ha preso ==quattro sì== alle audizioni e una standing ovation al Bootcamp con Liability di Lorde, ma non è arrivata ai Live.",
+     "Derealizzare l'ha scritta in ((una notte in bianco)), a casa: parla di isolamento, con due sedie di plastica fuori da un hotel che ricordano le vacanze in famiglia. Esce __venerdì 23 ottobre__."
+    ],
+    "en": {
+     "title": "Kora, born in 2005, after X Factor: *Derealizzare is out*",
+     "dek": "A single written in one sleepless night, about isolation. Friday she plays it live in Milan.",
+     "body": [
+      "Kora was born in 2005. On X Factor she got ==four yeses== at the auditions and a standing ovation at Bootcamp with Lorde's Liability, but she didn't make the Live Shows.",
+      "She wrote Derealizzare in ((one sleepless night)) at home: it is about isolation, with two plastic chairs outside a hotel that recall family holidays. It comes out on __Friday 23 October__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/kora-derealizzare-significato.html"
+     }
+    ]
+   },
+   {
+    "id": "cremonini-amateur-londra",
+    "date": "2026-10-22",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Cremonini presenta AMATEUR a Londra: *«è un disco d'esordio»*",
+    "dek": "Il decimo album esce venerdì, poi sedici palazzetti dal 24 novembre.",
+    "body": [
+     "Cesare Cremonini ha presentato ==AMATEUR== a Londra, con un concerto allo Shepherd's Bush Empire insieme a Salmo, Fabri Fibra e Malika Ayane. Il disco, registrato tra Londra e Bologna, esce venerdì.",
+     "Per lui è ((un disco d'esordio)), scritto in sei mesi invece dei soliti due anni. Il tour AMATOUR parte il __24 novembre__: sedici date nei palazzetti."
+    ],
+    "en": {
+     "title": "Cremonini presents AMATEUR in London: *“it's a debut record”*",
+     "dek": "The tenth album is out Friday, then sixteen arena shows from 24 November.",
+     "body": [
+      "Cesare Cremonini presented ==AMATEUR== in London, with a show at the Shepherd's Bush Empire alongside Salmo, Fabri Fibra and Malika Ayane. The record, made between London and Bologna, is out on Friday.",
+      "To him it is ((a debut record)), written in six months instead of his usual two years. The AMATOUR tour starts on __24 November__: sixteen arena dates."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/cesare-cremonini-conferenza-stampa-londra-amateur.html"
+     },
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-761972/cremonini-amateur-a-londra-traccia-per-traccia-salmo-fibra-malika"
+     }
+    ]
+   },
+   {
+    "id": "joe-barbieri-cantabile",
+    "date": "2026-10-22",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Joe Barbieri diventa Cantabile: *archi e legni a Roma e Napoli*",
+    "dek": "L'album esce il 13 novembre, i concerti a marzo 2027.",
+    "body": [
+     "Il nuovo album di Joe Barbieri, ==Cantabile==, esce il 13 novembre. Il primo estratto, La Bella Estate, è già fuori.",
+     "Dal vivo lo porta con ((un ensemble di archi e legni)): il __3 marzo 2027__ all'Auditorium di Roma e il 21 marzo al Teatro Bolivar di Napoli."
+    ],
+    "en": {
+     "title": "Joe Barbieri turns Cantabile: *strings and woodwinds in Rome and Naples*",
+     "dek": "The album is out 13 November, the concerts come in March 2027.",
+     "body": [
+      "Joe Barbieri's new album, ==Cantabile==, comes out on 13 November. The first single, La Bella Estate, is already out.",
+      "He takes it live with ((a strings and woodwinds ensemble)): on __3 March 2027__ at Rome's Auditorium and on 21 March at Naples' Teatro Bolivar."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/tour/joe-barbieri-tour-2027-date-biglietti.html"
+     }
+    ]
+   },
+   {
+    "id": "doechii-catwoman",
+    "date": "2026-10-22",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Doechii torna nella palude: *ecco CATWOMAN*",
+    "dek": "Un nuovo capitolo delle Swamp Sessions, mentre prende forma il primo album.",
+    "body": [
+     "Doechii ha pubblicato ==CATWOMAN==, il secondo pezzo delle Swamp Sessions di ottobre dopo Bombs. Il video, di circa due minuti, l'ha codiretto lei.",
+     "Per ora il brano ((non è in streaming)), e non è chiaro se sia la versione intera. Intanto lavora al suo __primo album__."
+    ],
+    "en": {
+     "title": "Doechii goes back to the swamp: *here's CATWOMAN*",
+     "dek": "A new chapter of the Swamp Sessions, while her first album takes shape.",
+     "body": [
+      "Doechii released ==CATWOMAN==, the second October Swamp Sessions track after Bombs. She co-directed the roughly two-minute video herself.",
+      "For now the song is ((not on streaming)), and it is unclear whether this is the full version. Meanwhile she is working on her __first album__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2515238/doechii-catwoman/music"
+     },
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1013859-catwoman-doechii"
+     }
+    ]
+   },
+   {
+    "id": "outkast-falcons-atliens",
+    "date": "2026-10-22",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "OutKast e Atlanta Falcons: *la collezione per i 30 anni di ATLiens*",
+    "dek": "Giacca varsity, casco e maglia in nero e verde neon, in vendita da ieri.",
+    "body": [
+     "Per i 30 anni di ATLiens, OutKast e gli Atlanta Falcons hanno lanciato una collezione in ==nero e verde neon==: giacca varsity, cappello, felpe, una maglia Mitchell & Ness e perfino un casco.",
+     "La scritta ATLiens unisce ((il lettering dei Falcons)) e la grafia dell'album. Allo stadio si compra solo durante la partita del __25 ottobre__."
+    ],
+    "en": {
+     "title": "OutKast and the Atlanta Falcons: *a collection for ATLiens at 30*",
+     "dek": "Varsity jacket, helmet and jersey in black and neon green, on sale since yesterday.",
+     "body": [
+      "For ATLiens' 30th anniversary, OutKast and the Atlanta Falcons launched a collection in ==black and neon green==: varsity jacket, cap, hoodies, a Mitchell & Ness jersey and even a helmet.",
+      "The ATLiens wordmark blends ((the Falcons' lettering)) with the album's handwriting. At the stadium it is sold only during the __25 October__ game."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Hypebeast",
+      "url": "https://hypebeast.com/2026/10/outkast-atlanta-falcons-30th-anniversary-atliens-collection-release-info"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-21",
   "n": 12,
   "items": [
