@@ -1,5 +1,146 @@
 [
  {
+  "date": "2026-10-23",
+  "n": 14,
+  "items": [
+   {
+    "id": "unfauno-chiara-chiara",
+    "date": "2026-10-23",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "UnFauno racconta Roma: *esce Chiara Chiara*",
+    "dek": "Il cantautore e dj romano mescola elettronica e cantautorato in attesa del secondo album.",
+    "body": [
+     "UnFauno è Fauno Lami, cantautore, creator e dj romano. Dopo una band rock e cinque anni in una comunità spirituale, ha esordito nel 2021 con Insecurity. Il secondo album arriva nel ==2027==.",
+     "Chiara Chiara è uscita ieri: una storia d'amore tra i circoli ARCI e i ((vinili di De André)), sospesa tra romanticismo e autodistruzione. Per lui Chiara è __fuga e approdo__."
+    ],
+    "en": {
+     "title": "UnFauno tells a Roman story: *Chiara Chiara is out*",
+     "dek": "The Roman songwriter and DJ mixes electronics and songwriting ahead of his second album.",
+     "body": [
+      "UnFauno is Fauno Lami, a Roman songwriter, creator and DJ. After a rock band and five years in a spiritual community, he debuted in 2021 with Insecurity. The second album arrives in ==2027==.",
+      "Chiara Chiara came out yesterday: a love story among ARCI clubs and ((De André vinyls)), hanging between romance and self-destruction. To him, Chiara is __escape and landing place__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/unfauno-chiara-chiara.html"
+     }
+    ]
+   },
+   {
+    "id": "mengoni-felice-si",
+    "date": "2026-10-23",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Marco Mengoni annuncia l'album: *Felice sì, ma tutto sbagliato*",
+    "dek": "Il primo disco in tre anni esce l'11 dicembre, trainato da Giornate perse.",
+    "body": [
+     "Il nuovo album di Marco Mengoni si chiama ==Felice sì, ma tutto sbagliato== ed esce l'__11 dicembre__. È il primo in tre anni, dopo Materia (Prisma).",
+     "Ad aprire la strada c'è il singolo ((Giornate perse)), scritto con Jacopo Ettorre e prodotto con Giovanni Pallotti."
+    ],
+    "en": {
+     "title": "Marco Mengoni announces the album: *Felice sì, ma tutto sbagliato*",
+     "dek": "His first record in three years arrives on 11 December, led by Giornate perse.",
+     "body": [
+      "Marco Mengoni's new album is called ==Felice sì, ma tutto sbagliato== and comes out on __11 December__. It is his first in three years, after Materia (Prisma).",
+      "Leading the way is the single ((Giornate perse)), written with Jacopo Ettorre and produced with Giovanni Pallotti."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-762018/marco-mengoni-il-nuovo-album-e-felice-si-ma-tutto-sbagliato"
+     }
+    ]
+   },
+   {
+    "id": "brando-madonia-il-mostro",
+    "date": "2026-10-23",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Brando Madonia dà un volto alle paure: *esce Il mostro*",
+    "dek": "Il cantautore catanese prepara il secondo album, Arrivederci Paranoia.",
+    "body": [
+     "Brando Madonia è nato a Catania nel 1990. Nel 2023 il suo primo album è stato finalista al ==Premio Tenco== come miglior opera prima. Oggi esce Il mostro, scritto e prodotto con Mattia Madonia.",
+     "Il mostro del titolo è una metafora di ((paure e fragilità)). Il brano anticipa il secondo album, __Arrivederci Paranoia__."
+    ],
+    "en": {
+     "title": "Brando Madonia gives his fears a face: *Il mostro is out*",
+     "dek": "The Catania songwriter is preparing his second album, Arrivederci Paranoia.",
+     "body": [
+      "Brando Madonia was born in Catania in 1990. In 2023 his first album was a finalist at the ==Premio Tenco== for best debut. Today he releases Il mostro, written and produced with Mattia Madonia.",
+      "The monster of the title is a metaphor for ((fears and fragility)). The song previews his second album, __Arrivederci Paranoia__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/brando-madonia-nuovo-singolo-il-mostro.html"
+     }
+    ]
+   },
+   {
+    "id": "westside-gunn-heelmatic",
+    "date": "2026-10-23",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Westside Gunn cambia casa: *Heelmatic esce a novembre*",
+    "dek": "Sedici tracce per Mass Appeal, il 13 novembre. Il primo assaggio è Zilla.",
+    "body": [
+     "L'ex anima di Griselda ha annunciato ==Heelmatic==, in uscita il __13 novembre__: sedici tracce, il suo primo disco per Mass Appeal.",
+     "Il primo singolo è ((Zilla)), prodotto da Denny La Flare. Arriva un anno dopo Heels Have Eyes 2."
+    ],
+    "en": {
+     "title": "Westside Gunn moves house: *Heelmatic lands in November*",
+     "dek": "Sixteen tracks on Mass Appeal, on 13 November. The first taste is Zilla.",
+     "body": [
+      "The former Griselda mastermind announced ==Heelmatic==, out on __13 November__: sixteen tracks, his first record for Mass Appeal.",
+      "The first single is ((Zilla)), produced by Denny La Flare. It comes a year after Heels Have Eyes 2."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2515336/westside-gunn-announces-new-album-heelmatic-hear-zilla/music"
+     }
+    ]
+   },
+   {
+    "id": "paul-smith-fender",
+    "date": "2026-10-23",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Paul Smith e Fender a 80 anni: *una Telecaster a righe*",
+    "dek": "Chitarra in 80 esemplari, sedici capi e plettri: la prima collezione insieme.",
+    "body": [
+     "Paul Smith e Fender compiono entrambi 80 anni e festeggiano con la prima collezione insieme: una ==Telecaster a righe== fatta in Giappone, numerata da 01 a __80__.",
+     "Poi sedici capi, tra giacca college, camicie stampate e un completo mod, ispirati ai negozi di dischi di ((Wardour Street)) a Londra."
+    ],
+    "en": {
+     "title": "Paul Smith and Fender at 80: *a striped Telecaster*",
+     "dek": "A guitar in 80 pieces, sixteen garments and picks: their first collection together.",
+     "body": [
+      "Paul Smith and Fender both turn 80 and celebrate with their first collection together: a ==striped Telecaster== made in Japan, numbered 01 to __80__.",
+      "Then sixteen pieces, including a varsity jacket, printed shirts and a mod suit, inspired by the record shops of London's ((Wardour Street))."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Hypebeast",
+      "url": "https://hypebeast.com/2026/10/paul-smith-fender-collabo-collection-release-info"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-22",
   "n": 13,
   "items": [
