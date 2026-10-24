@@ -1,5 +1,146 @@
 [
  {
+  "date": "2026-10-24",
+  "n": 15,
+  "items": [
+   {
+    "id": "millealice-nascere-inciampare-crescere",
+    "date": "2026-10-24",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "MilleAlice, da Firenze a Bologna: *il primo album in tre atti*",
+    "dek": "Dodici brani tra indie pop, funk e R&B: Nascere, inciampare, crescere è uscito ieri.",
+    "body": [
+     "MilleAlice è Alice Mascritti, cantautrice nata nel 2001 a Firenze e oggi a Bologna. Dopo l'EP 1000e6 e le audizioni di X Factor 2025, superate con ==tre sì==, arriva il suo primo album.",
+     "Nascere, inciampare, crescere ha dodici brani divisi in ((tre atti)), con Ellenoir e Leo Noir tra gli ospiti. Lei lo chiama __il mio primissimo figlio__."
+    ],
+    "en": {
+     "title": "MilleAlice, from Florence to Bologna: *a first album in three acts*",
+     "dek": "Twelve tracks of indie pop, funk and R&B: Nascere, inciampare, crescere came out yesterday.",
+     "body": [
+      "MilleAlice is Alice Mascritti, a songwriter born in 2001 in Florence and now based in Bologna. After the EP 1000e6 and the X Factor 2025 auditions, passed with ==three yeses==, her first album is here.",
+      "Nascere, inciampare, crescere has twelve tracks split into ((three acts)), with Ellenoir and Leo Noir among the guests. She calls it __my very first child__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/millealice-nascere-inciampare-crescere-tracklist.html"
+     }
+    ]
+   },
+   {
+    "id": "soap-sensible",
+    "date": "2026-10-24",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "soap scrive un diario: *Sensible esce il 6 novembre*",
+    "dek": "Nove brani tra Latina e Milano per la cantautrice romana classe 2005.",
+    "body": [
+     "Sophie Ottone, in arte soap, è nata a Roma nel 2005 ed è cresciuta a Latina. Il suo album ==Sensible== esce il __6 novembre__ per Sugar: nove brani, con Cigarette e Sophie già fuori.",
+     "L'ha scritto ((come fosse un diario)), tra la provincia e Milano, per mettere ogni emozione nel contenitore giusto."
+    ],
+    "en": {
+     "title": "soap writes a diary: *Sensible is out on 6 November*",
+     "dek": "Nine songs between Latina and Milan from the Roman songwriter born in 2005.",
+     "body": [
+      "Sophie Ottone, known as soap, was born in Rome in 2005 and grew up in Latina. Her album ==Sensible== comes out on __6 November__ on Sugar: nine tracks, with Cigarette and Sophie already out.",
+      "She wrote it ((as if it were a diary)), between her home province and Milan, to put every feeling in the right container."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/soap-sensible.html"
+     }
+    ]
+   },
+   {
+    "id": "ghemon-tour-2027",
+    "date": "2026-10-24",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Ghemon sposta il suo show: *otto teatri nella primavera 2027*",
+    "dek": "La stand-up comedy dell'artista slitta ad aprile per i suoi impegni tra Los Angeles e New York.",
+    "body": [
+     "Il nuovo spettacolo di Ghemon, ==La Prima Volta. L'Ultima Volta. L'Unica Volta==, passa da fine 2026 alla primavera 2027 per il suo lavoro negli Stati Uniti.",
+     "Le date sono otto, dall'__8 aprile a Bari__ al 4 maggio a Bologna. Perugia e Bolzano saltano, con ((rimborso automatico)) dei biglietti."
+    ],
+    "en": {
+     "title": "Ghemon moves his show: *eight theatres in spring 2027*",
+     "dek": "The artist's stand-up comedy show slips to April because of his work in Los Angeles and New York.",
+     "body": [
+      "Ghemon's new show, ==La Prima Volta. L'Ultima Volta. L'Unica Volta==, moves from late 2026 to spring 2027 because of his work in the United States.",
+      "There are eight dates, from __8 April in Bari__ to 4 May in Bologna. Perugia and Bolzano are cancelled, with ((automatic ticket refunds))."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/tour/ghemon-tour-2027.html"
+     }
+    ]
+   },
+   {
+    "id": "kacey-musgraves-tex-mex-tapes",
+    "date": "2026-10-24",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Kacey Musgraves canta anche in spagnolo: *arrivano i Tex Mex Tapes*",
+    "dek": "Sedici brani nuovi a gennaio, compagni di Middle Of Nowhere. Due sono già fuori.",
+    "body": [
+     "Kacey Musgraves ha annunciato ==Middle Of Nowhere Vol. 2: Tex Mex Tapes==, sedici brani nuovi in uscita il __15 gennaio__ per Lost Highway.",
+     "Quattro li canta in spagnolo, compresa una Uncertain, TX con gli Intocable. I primi assaggi sono Weekend In Texas e ((Mi Tesoro)), un classico norteño."
+    ],
+    "en": {
+     "title": "Kacey Musgraves sings in Spanish too: *here come the Tex Mex Tapes*",
+     "dek": "Sixteen new songs in January, a companion to Middle Of Nowhere. Two are already out.",
+     "body": [
+      "Kacey Musgraves announced ==Middle Of Nowhere Vol. 2: Tex Mex Tapes==, sixteen new songs out on __15 January__ on Lost Highway.",
+      "She sings four of them in Spanish, including an Uncertain, TX with Intocable. The first previews are Weekend In Texas and ((Mi Tesoro)), a Norteño classic."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2515408/kacey-musgraves-announces-middle-of-nowhere-vol-2-tex-mex-tapes-hear-two-tracks/music"
+     }
+    ]
+   },
+   {
+    "id": "travis-scott-aj1-low-chicago",
+    "date": "2026-10-24",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Travis Scott e Jordan: *la prossima AJ1 Low è la Chicago*",
+    "dek": "Bianca, rossa e nera, in camoscio: secondo le indiscrezioni arriva nel 2027.",
+    "body": [
+     "La prossima Air Jordan 1 Low di Travis Scott sarebbe la ==Chicago==: base bianca, rosso su punta e tallone e il suo Swoosh nero rovesciato. Al posto della pelle, ((il camoscio)).",
+     "Per ora è un'indiscrezione: si parla del __2027__, ma data e codice non sono ancora ufficiali."
+    ],
+    "en": {
+     "title": "Travis Scott and Jordan: *the next AJ1 Low is the Chicago*",
+     "dek": "White, red and black, in suede: according to reports it lands in 2027.",
+     "body": [
+      "Travis Scott's next Air Jordan 1 Low is reportedly the ==Chicago==: a white base, red on the toe and heel and his black reverse Swoosh. Instead of leather, ((suede)).",
+      "For now it is a report: the talk is of __2027__, but the date and style code are not official yet."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1014270-travis-scott-x-air-jordan-1-low-chicago-sneaker-news"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-23",
   "n": 14,
   "items": [
