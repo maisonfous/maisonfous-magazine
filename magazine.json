@@ -1,5 +1,146 @@
 [
  {
+  "date": "2026-10-25",
+  "n": 16,
+  "items": [
+   {
+    "id": "utente175-apnea",
+    "date": "2026-10-25",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "UTENTE175 trattiene il fiato: *esce APNEA*",
+    "dek": "Una canzone scritta di getto dopo una rottura, primo assaggio dell'EP Le piccole cose.",
+    "body": [
+     "UTENTE175 ha già diviso il palco con Tommaso Paradiso, 22Simba, Sarah Toscano e Sayf. Il nuovo singolo ==APNEA== è uscito venerdì per Meraki e anticipa l'EP __Le piccole cose__.",
+     "Racconta la fine della ((relazione più importante)) della sua vita: un brano scritto di getto, con un ritornello cantato a chi se n'è andata."
+    ],
+    "en": {
+     "title": "UTENTE175 holds his breath: *APNEA is out*",
+     "dek": "A song written in one go after a breakup, the first taste of the EP Le piccole cose.",
+     "body": [
+      "UTENTE175 has already shared the stage with Tommaso Paradiso, 22Simba, Sarah Toscano and Sayf. His new single ==APNEA== came out on Friday on Meraki and previews the EP __Le piccole cose__.",
+      "It is about the end of the ((most important relationship)) of his life: a song written in one go, with a chorus sung to the one who left."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/utente175-apnea.html"
+     }
+    ]
+   },
+   {
+    "id": "cristina-dona-arte-di-scomparire",
+    "date": "2026-10-25",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Cristina Donà torna dopo cinque anni: *L'arte di scomparire*",
+    "dek": "Il nuovo album esce il 27 novembre, poi dieci date nei teatri fino a marzo.",
+    "body": [
+     "Il nuovo album di Cristina Donà si chiama ==L'arte di scomparire== ed esce il __27 novembre__. Arriva cinque anni dopo Desidera.",
+     "Il tour parte l'11 dicembre da Genova e chiude il 18 marzo a Cagliari: dieci date, con lei ((Saverio Lanza e Tancredi Lo Cigno))."
+    ],
+    "en": {
+     "title": "Cristina Donà returns after five years: *L'arte di scomparire*",
+     "dek": "The new album is out 27 November, followed by ten theatre dates until March.",
+     "body": [
+      "Cristina Donà's new album is called ==L'arte di scomparire== and comes out on __27 November__. It arrives five years after Desidera.",
+      "The tour starts on 11 December in Genoa and ends on 18 March in Cagliari: ten dates, with ((Saverio Lanza and Tancredi Lo Cigno)) beside her."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Rockol",
+      "url": "https://www.rockol.it/news-762036/cristina-dona-e-l-arte-di-scomparire"
+     }
+    ]
+   },
+   {
+    "id": "thasup-tha-supreme",
+    "date": "2026-10-25",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "thasup torna tha Supreme: *il nuovo disco è vicino?*",
+    "dek": "Il profilo Spotify riprende il nome del debutto, quattro anni dopo l'ultimo album.",
+    "body": [
+     "Su Spotify thasup è tornato a chiamarsi ==tha Supreme==, il nome del suo esordio 23 6451 del 2019. Intanto il suo Instagram è stato quasi svuotato.",
+     "L'ultimo album, c@ra++ere s?ec!@le, è del 2022. Lui stesso aveva scritto che ((manca poco)), ma titolo e data __non ci sono ancora__."
+    ],
+    "en": {
+     "title": "thasup is tha Supreme again: *is the new record close?*",
+     "dek": "His Spotify profile takes back the name of his debut, four years after his last album.",
+     "body": [
+      "On Spotify thasup has gone back to ==tha Supreme==, the name behind his 2019 debut 23 6451. Meanwhile his Instagram has been almost emptied.",
+      "His last album, c@ra++ere s?ec!@le, came out in 2022. He himself wrote that ((it won't be long)), but the title and date __are not out yet__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/thasup-tha-supreme-nome-spotify.html"
+     }
+    ]
+   },
+   {
+    "id": "jay-z-sofi-prima-sera",
+    "date": "2026-10-25",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Jay-Z al SoFi Stadium: *33 brani e Blue Ivy sul palco*",
+    "dek": "Prima di due sere a Los Angeles, con Scarface, John Legend e DJ Khaled.",
+    "body": [
+     "Venerdì Jay-Z ha aperto le sue due sere al SoFi Stadium di Los Angeles con ==33 brani==, da Izzo a Empire State of Mind.",
+     "Sul palco anche la figlia ((Blue Ivy)), poi Scarface, John Legend e DJ Khaled per God Did. E un omaggio a __Nipsey Hussle__."
+    ],
+    "en": {
+     "title": "Jay-Z at SoFi Stadium: *33 songs and Blue Ivy on stage*",
+     "dek": "The first of two nights in Los Angeles, with Scarface, John Legend and DJ Khaled.",
+     "body": [
+      "On Friday Jay-Z opened his two nights at Los Angeles' SoFi Stadium with ==33 songs==, from Izzo to Empire State of Mind.",
+      "His daughter ((Blue Ivy)) joined him on stage, then Scarface, John Legend and DJ Khaled for God Did. And a tribute to __Nipsey Hussle__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1014234-jay-z-sofi-stadium-night-one-full-setlist"
+     }
+    ]
+   },
+   {
+    "id": "cardi-b-rolex-barbie",
+    "date": "2026-10-25",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Cardi B si regala il rosa: *un Rolex Daytona Barbie*",
+    "dek": "Oro giallo e zaffiri rosa per i 34 anni, più un anello di diamanti su misura.",
+    "body": [
+     "Per i suoi 34 anni Cardi B ha mostrato un Rolex Daytona soprannominato ==Barbie==: oro giallo, quadrante rosa e lunetta di ((zaffiri rosa)). Secondo il gioielliere, ne esistono solo dieci.",
+     "Accanto, un anello con sette carati di diamanti fatto su misura. Il biglietto? Un regalo __da Belcalis a Cardi B__."
+    ],
+    "en": {
+     "title": "Cardi B treats herself to pink: *a Rolex Daytona Barbie*",
+     "dek": "Yellow gold and pink sapphires for her 34th, plus a custom diamond ring.",
+     "body": [
+      "For her 34th birthday Cardi B showed off a Rolex Daytona nicknamed ==Barbie==: yellow gold, a pink dial and a bezel of ((pink sapphires)). According to the jeweller, only ten exist.",
+      "Next to it, a custom ring with seven carats of diamonds. The card? A gift __from Belcalis to Cardi B__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1014314-cardi-b-3-million-rolex-daytona-barbie-streetwear-news"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-24",
   "n": 15,
   "items": [
