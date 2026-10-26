@@ -1,5 +1,158 @@
 [
  {
+  "date": "2026-10-26",
+  "n": 17,
+  "items": [
+   {
+    "id": "battista-o-cavallo-e-ritorno",
+    "date": "2026-10-26",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Battista, rapper di Castel Volturno: *'O cavallo 'e ritorno*",
+    "dek": "Classe 1999, due singoli in un mese e già i complimenti di Marracash e Geolier.",
+    "body": [
+     "Battista è Andrea Parisi, classe 1999, da Castel Volturno. Ha esordito a settembre con un brano in dialetto, senza ritornello, costruito su ==zampogne e ciaramelle==, prodotto dal fratello Matteo.",
+     "Il secondo singolo, 'O cavallo 'e ritorno, è uscito venerdì in autoproduzione. Racconta ((il Sud dopo l'Unità)). Roberto Saviano ha scritto: __È nato un poeta hip hop__."
+    ],
+    "en": {
+     "title": "Battista, a rapper from Castel Volturno: *'O cavallo 'e ritorno*",
+     "dek": "Born in 1999, two singles in a month and already praise from Marracash and Geolier.",
+     "body": [
+      "Battista is Andrea Parisi, born in 1999, from Castel Volturno. He debuted in September with a dialect track, no chorus, built on ==bagpipes and shawms==, produced by his brother Matteo.",
+      "His second single, 'O cavallo 'e ritorno, came out on Friday, self-released. It tells of ((the South after Unification)). Roberto Saviano wrote: __A hip hop poet is born__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/battista-o-cavallo-e-ritorno-testo-significato.html"
+     },
+     {
+      "name": "All Music Italia (pagelle)",
+      "url": "https://www.allmusicitalia.it/pagelle-nuovi-singoli/pagelle-nuovi-singoli-23-ottobre-2026.html"
+     }
+    ]
+   },
+   {
+    "id": "dada-viscera",
+    "date": "2026-10-26",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "DADA' scende nel buio: *VISCERA esce il 30 ottobre*",
+    "dek": "Otto brani dopo Core in fabula, poi uno spettacolo-fiaba al Trianon di Napoli.",
+    "body": [
+     "La cantautrice napoletana DADA' pubblica ==VISCERA== venerdì 30 ottobre: otto brani prodotti da lei con Retrohandz e Fato W. Il singolo è Mela Wela.",
+     "Il 14 e 15 novembre le canzoni diventano la colonna sonora di ((Le fiabe di donna Ruvia)), uno spettacolo al __Teatro Trianon Viviani__."
+    ],
+    "en": {
+     "title": "DADA' goes into the dark: *VISCERA is out on 30 October*",
+     "dek": "Eight tracks after Core in fabula, then a fairy-tale show at Naples' Trianon.",
+     "body": [
+      "Neapolitan songwriter DADA' releases ==VISCERA== on Friday 30 October: eight tracks she produced with Retrohandz and Fato W. The single is Mela Wela.",
+      "On 14 and 15 November the songs become the soundtrack of ((Le fiabe di donna Ruvia)), a show at the __Teatro Trianon Viviani__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/dada-viscera-album-mela-wela.html"
+     }
+    ]
+   },
+   {
+    "id": "sangiovanni-alfa-da-domani",
+    "date": "2026-10-26",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "sangiovanni e Alfa al Forum: *il duetto si chiama da domani*",
+    "dek": "Presentato dal vivo ad Assago, sarà nel nuovo album di sangiovanni il 13 novembre.",
+    "body": [
+     "Sabato, nel Forum di Assago tutto esaurito per la fine del tour di Alfa, i due hanno cantato per la prima volta ==da domani==.",
+     "Il ritornello è una lista di ((buoni propositi)): alzarsi presto, la palestra, smettere di fumare. Il brano sarà in __TUTTO BENE GRAZIE__, l'album di sangiovanni in uscita il 13 novembre."
+    ],
+    "en": {
+     "title": "sangiovanni and Alfa at the Forum: *the duet is called da domani*",
+     "dek": "Premiered live in Assago, it will be on sangiovanni's new album on 13 November.",
+     "body": [
+      "On Saturday, at a sold-out Assago Forum closing Alfa's tour, the two sang ==da domani== for the first time.",
+      "The chorus is a list of ((good resolutions)): getting up early, the gym, quitting smoking. The song will be on __TUTTO BENE GRAZIE__, sangiovanni's album out on 13 November."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/sangiovanni-alfa-da-domani-testo-significato.html"
+     }
+    ]
+   },
+   {
+    "id": "john-legend-muse",
+    "date": "2026-10-26",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "John Legend e Pharrell: *Muse è il disco del cambio*",
+    "dek": "Sedici brani tra gospel, doo-wop, soul e hip-hop, con i Clipse come ospiti.",
+    "body": [
+     "È uscito ==Muse==, l'undicesimo album di John Legend, prodotto per intero con Pharrell Williams: __sedici brani__, sei con Pharrell alla voce e Bodies On The Floor con i Clipse.",
+     "Tutto è nato dalla sua voce in un brano dei Clipse. Dentro c'è la musica nera, dal gospel all'hip-hop, e lui promette ((meno ballate del solito))."
+    ],
+    "en": {
+     "title": "John Legend and Pharrell: *Muse is the change record*",
+     "dek": "Sixteen tracks of gospel, doo-wop, soul and hip-hop, with Clipse as guests.",
+     "body": [
+      "==Muse== is out, John Legend's eleventh album, fully produced with Pharrell Williams: __sixteen tracks__, six featuring Pharrell and Bodies On The Floor with Clipse.",
+      "It all started with his vocal on a Clipse track. Inside is Black music, from gospel to hip-hop, and he promises ((fewer ballads than usual))."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Official Charts",
+      "url": "https://www.officialcharts.com/chart-news/john-legend-pharrell-williams-muse-new-album-release-date-preorder-tracklist/"
+     },
+     {
+      "name": "SiriusXM",
+      "url": "https://www.siriusxm.com/blog/john-legend-new-album-muse"
+     },
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1014005-hip-hop-albums-songs-tonight-october-23-2026"
+     }
+    ]
+   },
+   {
+    "id": "billie-finneas-john-hardy",
+    "date": "2026-10-26",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Billie Eilish e Finneas disegnano gioielli: *la linea con John Hardy*",
+    "dek": "Per la prima volta co-designer di una collezione, con materiali di recupero.",
+    "body": [
+     "Billie Eilish e Finneas firmano per la prima volta ==una collezione di gioielli==, insieme a John Hardy. È già in vendita.",
+     "I pezzi vanno dal grosso ((Screwball)) al delicato Wildflower e sono fatti con __materiali di recupero__."
+    ],
+    "en": {
+     "title": "Billie Eilish and Finneas design jewellery: *the line with John Hardy*",
+     "dek": "Co-designers of a collection for the first time, using reclaimed materials.",
+     "body": [
+      "Billie Eilish and Finneas sign ==a jewellery collection== for the first time, together with John Hardy. It is already on sale.",
+      "The pieces range from the chunky ((Screwball)) to the delicate Wildflower and are made with __reclaimed materials__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Nylon",
+      "url": "https://nylon.com/fashion/fashion-news-roundup-oct-22-2026"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-25",
   "n": 16,
   "items": [
