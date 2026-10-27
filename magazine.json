@@ -1,5 +1,146 @@
 [
  {
+  "date": "2026-10-27",
+  "n": 18,
+  "items": [
+   {
+    "id": "evilgiane-slimesito-evilslime-2",
+    "date": "2026-10-27",
+    "tag": "Volto nuovo",
+    "country": "US",
+    "lead": true,
+    "title": "evilgiane e Slimesito di nuovo insieme: *arriva EVILSLIME 2*",
+    "dek": "Il produttore di Brooklyn e il rapper del Maryland pubblicano il secondo capitolo venerdì.",
+    "body": [
+     "evilgiane è il produttore di Brooklyn che guida la crew ==Surf Gang==, Slimesito un rapper del Maryland. Venerdì 30 ottobre esce il loro nuovo album insieme, __EVILSLIME 2__.",
+     "Il primo assaggio è ((Georgia State)), prodotto da evilgiane con EERA, con un video diretto da Braden Farias."
+    ],
+    "en": {
+     "title": "evilgiane and Slimesito team up again: *EVILSLIME 2 is coming*",
+     "dek": "The Brooklyn producer and the Maryland rapper release the second chapter on Friday.",
+     "body": [
+      "evilgiane is the Brooklyn producer who leads the ==Surf Gang== crew, Slimesito a rapper from Maryland. On Friday 30 October their new joint album, __EVILSLIME 2__, comes out.",
+      "The first taste is ((Georgia State)), produced by evilgiane with EERA, with a video directed by Braden Farias."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news"
+     }
+    ]
+   },
+   {
+    "id": "fask-inverno-nucleare-tour",
+    "date": "2026-10-27",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Fast Animals and Slow Kids: *Inverno nucleare, singolo e tour*",
+    "dek": "Il brano esce il 30 ottobre, poi sette date in aprile da Bologna a Firenze.",
+    "body": [
+     "Dopo due concerti esauriti all'Arci Bellezza di Milano, i Fast Animals and Slow Kids pubblicano ==Inverno nucleare== il 30 ottobre: il primo passo con Woodworm ed Epic.",
+     "Ad aprile 2027 arriva il tour: ((sette date)), dal 16 aprile all'Estragon di Bologna al __30 aprile a Firenze__."
+    ],
+    "en": {
+     "title": "Fast Animals and Slow Kids: *Inverno nucleare, single and tour*",
+     "dek": "The song is out on 30 October, then seven dates in April from Bologna to Florence.",
+     "body": [
+      "After two sold-out shows at Milan's Arci Bellezza, Fast Animals and Slow Kids release ==Inverno nucleare== on 30 October: their first step with Woodworm and Epic.",
+      "The tour follows in April 2027: ((seven dates)), from 16 April at Bologna's Estragon to __30 April in Florence__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/tour/fast-animals-and-slow-kids-milano-2026.html"
+     }
+    ]
+   },
+   {
+    "id": "giorgio-vanni-generazione-vanni",
+    "date": "2026-10-27",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Giorgio Vanni raccoglie le sigle: *ecco Generazione Vanni*",
+    "dek": "Venti cartoni in CD e dodici in vinile dal 30 ottobre, con un firmacopie a Lucca.",
+    "body": [
+     "Da oltre 25 anni Giorgio Vanni canta le sigle dei cartoni. Ora le raccoglie in ==Generazione Vanni==: 20 brani in CD e 12 in vinile, da Dragon Ball a Pokémon, il 30 ottobre.",
+     "A Lucca Comics il disco si trova in anteprima, e sabato 31 ottobre c'è il ((firmacopie con Max Longhi)). Il motivo? Il pubblico __ha ancora voglia di riascoltarle__."
+    ],
+    "en": {
+     "title": "Giorgio Vanni collects his theme songs: *here's Generazione Vanni*",
+     "dek": "Twenty cartoons on CD and twelve on vinyl from 30 October, with a signing in Lucca.",
+     "body": [
+      "For over 25 years Giorgio Vanni has sung cartoon theme songs. Now he gathers them in ==Generazione Vanni==: 20 tracks on CD and 12 on vinyl, from Dragon Ball to Pokémon, on 30 October.",
+      "At Lucca Comics the record is available early, and on Saturday 31 October there is a ((signing with Max Longhi)). Why? Fans __still want to hear them again__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/giorgio-vanni-generazione-vanni-raccolta.html"
+     }
+    ]
+   },
+   {
+    "id": "john-mayer-sob-rock-records",
+    "date": "2026-10-27",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "John Mayer apre la sua etichetta: *esce Tom and Jerry*",
+    "dek": "Sob Rock Records nasce con Mercury, e il primo singolo solista in cinque anni.",
+    "body": [
+     "John Mayer ha fondato ==Sob Rock Records==, insieme a Mercury Records. Il primo brano è Tom and Jerry, la sua __prima musica solista in cinque anni__, prodotta con Blake Slatkin.",
+     "La nuova etichetta pubblicherà anche il suo nono album. Dall'8 aprile 2027 lo aspettano ((21 concerti alla Sphere)) di Las Vegas."
+    ],
+    "en": {
+     "title": "John Mayer opens his own label: *Tom and Jerry is out*",
+     "dek": "Sob Rock Records launches with Mercury, plus his first solo single in five years.",
+     "body": [
+      "John Mayer has founded ==Sob Rock Records==, together with Mercury Records. The first song is Tom and Jerry, his __first solo music in five years__, produced with Blake Slatkin.",
+      "The new label will also release his ninth album. From 8 April 2027 he has ((21 shows at the Sphere)) in Las Vegas."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Hypebeast",
+      "url": "https://hypebeast.com/2026/10/john-mayer-launches-own-record-label-sob-rock-records-drops-new-single-tom-and-jerry-release-info"
+     }
+    ]
+   },
+   {
+    "id": "outkast-nike-uga",
+    "date": "2026-10-27",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "OutKast vestono i Bulldogs: *la capsule con Nike e Georgia*",
+    "dek": "Felpe, jersey e giacche con Big Boi e André 3000 in versione cartone, da oggi.",
+    "body": [
+     "OutKast, Nike, Class Trip e l'Università della Georgia firmano ==una capsule insieme==: cappellino, t-shirt, jersey da football, felpa, pantaloni, gonna e giacca, taglie unisex.",
+     "Sui capi ci sono ((Big Boi e André 3000)) in cartone animato e la corona di OutKast sulla G dei Bulldogs. Esce __oggi, 27 ottobre__."
+    ],
+    "en": {
+     "title": "OutKast dress the Bulldogs: *a capsule with Nike and Georgia*",
+     "dek": "Hoodies, jerseys and jackets with cartoon Big Boi and André 3000, out today.",
+     "body": [
+      "OutKast, Nike, Class Trip and the University of Georgia sign ==a joint capsule==: cap, T-shirt, football jersey, hoodie, pants, skirt and jacket, in unisex sizes.",
+      "The pieces show ((Big Boi and André 3000)) as cartoons and the OutKast crown on the Bulldogs' G. It drops __today, 27 October__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Sole Retriever",
+      "url": "https://www.soleretriever.com/news/articles/nike-x-class-trip-x-uga-x-outkast-release-date-october-2026"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-26",
   "n": 17,
   "items": [
