@@ -1,5 +1,146 @@
 [
  {
+  "date": "2026-10-28",
+  "n": 19,
+  "items": [
+   {
+    "id": "latrelle-silenzio-assordante",
+    "date": "2026-10-28",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Latrelle, 24 anni da Milano: *un album a puntate*",
+    "dek": "Silenzio Assordante non ha una data: esce un pezzo alla settimana, come una serie.",
+    "body": [
+     "Latrelle è Umberto Rattini, nato a Milano nel 2002. Registra da quando aveva 13 anni, ha pubblicato tre EP e quest'anno Tedua lo ha voluto due volte nel suo disco, fino al ==palco di San Siro==.",
+     "Il primo album ufficiale, Silenzio Assordante, è prodotto tutto da N' e ((non ha una data)): esce __una settimana alla volta__, come gli episodi di una serie."
+    ],
+    "en": {
+     "title": "Latrelle, 24, from Milan: *an album in episodes*",
+     "dek": "Silenzio Assordante has no date: one piece comes out each week, like a series.",
+     "body": [
+      "Latrelle is Umberto Rattini, born in Milan in 2002. He has been recording since he was 13, has released three EPs, and this year Tedua featured him twice on his record, all the way to the ==San Siro stage==.",
+      "His first official album, Silenzio Assordante, is produced entirely by N' and ((has no release date)): it comes out __one week at a time__, like the episodes of a series."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/latrelle-silenzio-assordante-album.html"
+     }
+    ]
+   },
+   {
+    "id": "mario-biondi-two-entities-tour",
+    "date": "2026-10-28",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Mario Biondi porta Two Entities in teatro: *si parte da Trento*",
+    "dek": "Dal 1° novembre al 18 dicembre, con tappe anche a Malaga, Atene e Sofia.",
+    "body": [
+     "Il tour nei teatri di Mario Biondi parte il ==1° novembre== dall'Auditorium Santa Chiara di Trento e arriva fino al 18 dicembre, passando da Parma, Venezia, Palermo, Milano e Roma.",
+     "Sul palco c'è ((Two Entities)), l'album in inglese uscito a ottobre, a vent'anni da __Handful of Soul__."
+    ],
+    "en": {
+     "title": "Mario Biondi takes Two Entities to theatres: *starting in Trento*",
+     "dek": "From 1 November to 18 December, with stops in Malaga, Athens and Sofia too.",
+     "body": [
+      "Mario Biondi's theatre tour starts on ==1 November== at Trento's Auditorium Santa Chiara and runs until 18 December, through Parma, Venice, Palermo, Milan and Rome.",
+      "On stage is ((Two Entities)), the English-language album released in October, twenty years after __Handful of Soul__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/tour/mario-biondi-tour-2026-date-biglietti-scaletta.html"
+     }
+    ]
+   },
+   {
+    "id": "senza-cri-no-cap",
+    "date": "2026-10-28",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "SENZA CRI parla senza filtri: *l'EP NO CAP esce il 6 novembre*",
+    "dek": "Testi e melodie scritti in prima persona, immagini girate a Londra e un archivio privato per i fan.",
+    "body": [
+     "Il nuovo EP di SENZA CRI si chiama ==NO CAP==, nello slang della Gen Z vuol dire senza bugie. Esce il __6 novembre__, dopo Strade, Notte selvaggia e La mia natura.",
+     "Testi e melodie sono tutti suoi. Il brano da ascoltare è ((Incendio)), acustico ed essenziale, e le immagini sono state girate a Londra."
+    ],
+    "en": {
+     "title": "SENZA CRI speaks unfiltered: *the NO CAP EP is out 6 November*",
+     "dek": "Every lyric and melody by the artist, visuals shot in London and a private archive for fans.",
+     "body": [
+      "SENZA CRI's new EP is called ==NO CAP==, Gen Z slang for no lies. It comes out on __6 November__, after Strade, Notte selvaggia and La mia natura.",
+      "Every lyric and melody is by SENZA CRI. The track to hear is ((Incendio)), acoustic and bare, and the visuals were shot in London."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/senza-cri-no-cap.html"
+     }
+    ]
+   },
+   {
+    "id": "hum-tour-2027",
+    "date": "2026-10-28",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Gli Hum tornano in tour: *dodici date americane nel 2027*",
+    "dek": "Gli inventori dello shoegaze pesante americano ripartono da Atlanta a marzo.",
+    "body": [
+     "Gli Hum, band di Champaign, Illinois, hanno annunciato ==un tour nel 2027== a piccoli blocchi: da Atlanta il 3 marzo a San Francisco il 17 luglio, passando da New York e Washington.",
+     "Alla batteria torna Jason Gerken, dopo la morte di ((Bryan St. Pere)) nel 2021. I biglietti si aprono il __29 ottobre__."
+    ],
+    "en": {
+     "title": "Hum are back on tour: *twelve American dates in 2027*",
+     "dek": "The inventors of American heavy shoegaze set off from Atlanta in March.",
+     "body": [
+      "Hum, the band from Champaign, Illinois, announced ==a 2027 tour== in short runs: from Atlanta on 3 March to San Francisco on 17 July, via New York and Washington.",
+      "Jason Gerken returns on drums, after the death of ((Bryan St. Pere)) in 2021. Tickets open on __29 October__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Stereogum",
+      "url": "https://stereogum.com/2515707/hum-announce-2027-tour/news"
+     }
+    ]
+   },
+   {
+    "id": "frank-ocean-prada-americas-cup",
+    "date": "2026-10-28",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Frank Ocean torna su Instagram: *ai piedi le Prada America's Cup*",
+    "dek": "Una storia rara per mostrare la nuova versione di una sneaker nata nel 1999.",
+    "body": [
+     "Frank Ocean si fa vedere poco, ma domenica ha pubblicato ((una storia su Instagram)) per mostrare le sue nuove scarpe: le ==Prada America's Cup== aggiornate.",
+     "Pelle spazzolata e tessuto tecnico da bici, in omaggio al modello del __1999__. Con Prada, del resto, ha già lavorato col suo marchio di gioielli Homer."
+    ],
+    "en": {
+     "title": "Frank Ocean is back on Instagram: *wearing Prada America's Cup*",
+     "dek": "A rare story to show off the new version of a sneaker born in 1999.",
+     "body": [
+      "Frank Ocean rarely shows himself, but on Sunday he posted ((an Instagram story)) to show off his new shoes: the updated ==Prada America's Cup==.",
+      "Brushed leather and technical bike fabric, a nod to the __1999__ model. He has worked with Prada before, through his jewellery brand Homer."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Highsnobiety",
+      "url": "https://www.highsnobiety.com/p/prada-frank-ocean-sneaker-new/"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-27",
   "n": 18,
   "items": [
