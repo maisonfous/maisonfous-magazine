@@ -1,5 +1,146 @@
 [
  {
+  "date": "2026-10-29",
+  "n": 20,
+  "items": [
+   {
+    "id": "gianmaria-senza-la-tua-mano-in-tasca",
+    "date": "2026-10-29",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Gianmaria rompe il silenzio: *Senza la tua mano in tasca*",
+    "dek": "Il cantautore vicentino torna dopo due anni, prodotto da Taketo Gohara.",
+    "body": [
+     "Gianmaria viene dalla provincia di Vicenza: secondo a X Factor nel 2021, in gara a Sanremo nel 2023 con Mostro. Dopo Formiche, nel 2024, ==un lungo silenzio==.",
+     "Ora torna con Senza la tua mano in tasca, prodotto da ((Taketo Gohara)) per Epic. Il singolo esce __venerdì 6 novembre__."
+    ],
+    "en": {
+     "title": "Gianmaria breaks his silence: *Senza la tua mano in tasca*",
+     "dek": "The songwriter from Vicenza returns after two years, produced by Taketo Gohara.",
+     "body": [
+      "Gianmaria comes from the Vicenza area: runner-up on X Factor in 2021, in competition at Sanremo in 2023 with Mostro. After Formiche, in 2024, ==a long silence==.",
+      "Now he returns with Senza la tua mano in tasca, produced by ((Taketo Gohara)) for Epic. The single comes out on __Friday 6 November__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/gianmaria-senza-la-tua-mano-in-tasca-testo-significato.html"
+     }
+    ]
+   },
+   {
+    "id": "ultimo-live-tor-vergata",
+    "date": "2026-10-29",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Ultimo pubblica Tor Vergata: *38 brani dal vivo il 13 novembre*",
+    "dek": "Il concerto da record del 4 luglio diventa un disco, con Fabrizio Moro unico ospite.",
+    "body": [
+     "Il concerto di Ultimo a Tor Vergata del 4 luglio, con oltre ==250 mila biglietti==, diventa un album dal vivo: 38 brani, da Tutto a Sogni appesi. Esce il __13 novembre__.",
+     "L'unico ospite è ((Fabrizio Moro)). Intanto il tour negli stadi del 2027 parte il 10 giugno da Lignano Sabbiadoro."
+    ],
+    "en": {
+     "title": "Ultimo releases Tor Vergata: *38 live tracks on 13 November*",
+     "dek": "The record-breaking 4 July concert becomes an album, with Fabrizio Moro as the only guest.",
+     "body": [
+      "Ultimo's 4 July concert at Tor Vergata, with over ==250,000 tickets==, becomes a live album: 38 tracks, from Tutto to Sogni appesi. It comes out on __13 November__.",
+      "The only guest is ((Fabrizio Moro)). Meanwhile his 2027 stadium tour starts on 10 June in Lignano Sabbiadoro."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/ultimo-live-tor-vergata-box-vinile-amazon.html"
+     }
+    ]
+   },
+   {
+    "id": "sud-sound-system-premio-carriera",
+    "date": "2026-10-29",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Sud Sound System, 35 anni di reggae: *il premio alla carriera*",
+    "dek": "Il 7 novembre all'Alcatraz di Milano, dove vent'anni fa registrarono Live & Direct.",
+    "body": [
+     "I Sud Sound System festeggiano ==35 anni== dal primo disco, Fuecu, del 1991. Il 7 novembre ricevono il premio alla carriera alla Notte di San Martino.",
+     "Si suona all'((Alcatraz di Milano)), lo stesso palco dove nel 2006 registrarono __Live & Direct__."
+    ],
+    "en": {
+     "title": "Sud Sound System, 35 years of reggae: *a lifetime award*",
+     "dek": "On 7 November at Milan's Alcatraz, where they recorded Live & Direct twenty years ago.",
+     "body": [
+      "Sud Sound System celebrate ==35 years== since their first record, Fuecu, in 1991. On 7 November they receive a lifetime award at the Notte di San Martino.",
+      "The show is at ((Milan's Alcatraz)), the same stage where they recorded __Live & Direct__ in 2006."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/tour/sud-sound-system-milano-2026.html"
+     }
+    ]
+   },
+   {
+    "id": "mary-j-blige-primary-wave",
+    "date": "2026-10-29",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Mary J. Blige affida le sue canzoni: *l'accordo con Primary Wave*",
+    "dek": "Da Family Affair a Be Without You, e intanto a Las Vegas riparte la residency.",
+    "body": [
+     "Mary J. Blige ha stretto ==una partnership con Primary Wave== per le sue canzoni e registrazioni, da Family Affair a Be Without You. Le cifre non sono state rese note.",
+     "Intanto riprende la sua residency a Las Vegas, ((My Life, My Story)), con date fino al __20 febbraio 2027__."
+    ],
+    "en": {
+     "title": "Mary J. Blige entrusts her songs: *a deal with Primary Wave*",
+     "dek": "From Family Affair to Be Without You, while her Las Vegas residency starts again.",
+     "body": [
+      "Mary J. Blige struck ==a partnership with Primary Wave== for her songs and recordings, from Family Affair to Be Without You. No figures were disclosed.",
+      "Meanwhile her Las Vegas residency, ((My Life, My Story)), resumes, with dates through __20 February 2027__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1014607-mary-j-blige-primary-wave-catalog"
+     }
+    ]
+   },
+   {
+    "id": "fender-dark-horse-records",
+    "date": "2026-10-29",
+    "tag": "Moda e musica",
+    "country": "US",
+    "lead": false,
+    "title": "Fender rende omaggio a George Harrison: *la Strat Dark Horse*",
+    "dek": "Tre colori, dettagli dorati, tracolla e plettri: una collezione solo per il Giappone.",
+    "body": [
+     "Fender celebra Dark Horse Records, l'etichetta fondata da George Harrison nel 1974, con una Stratocaster in ==bianco, nero e arancione==, grafiche dell'etichetta e meccaniche dorate.",
+     "Con la chitarra arrivano una tracolla e ((dodici plettri in una scatola)). La collezione si trova __solo in Giappone__, in ricordo del tour di Harrison nel 1991."
+    ],
+    "en": {
+     "title": "Fender pays tribute to George Harrison: *the Dark Horse Strat*",
+     "dek": "Three colours, gold details, a strap and picks: a Japan-only collection.",
+     "body": [
+      "Fender celebrates Dark Horse Records, the label George Harrison founded in 1974, with a Stratocaster in ==white, black and orange==, label artwork and gold hardware.",
+      "Alongside the guitar come a strap and ((twelve picks in a tin)). The collection is sold __only in Japan__, recalling Harrison's 1991 tour there."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Hypebeast",
+      "url": "https://hypebeast.com/2026/10/fender-dark-george-harrison-horse-records-capsule-collection-collaboration-release-info"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-28",
   "n": 19,
   "items": [
