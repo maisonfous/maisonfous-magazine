@@ -1,5 +1,123 @@
 [
  {
+  "date": "2026-10-30",
+  "n": 21,
+  "items": [
+   {
+    "id": "tara-clean-bandit-la-dolce-vita",
+    "date": "2026-10-30",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Canta in italiano e in arabo: *TÄRA inventa l'Arab'n'B*",
+    "dek": "La cantautrice palestinese-italiana firma La Dolce Vita con i Clean Bandit.",
+    "body": [
+     "TÄRA è una cantautrice palestinese-italiana che mescola R&B e strumenti arabi: lei lo chiama ==Arab'n'B==. Ora è la voce di La Dolce Vita, il nuovo singolo dei Clean Bandit, uscito per la loro etichetta CB X.",
+     "Il video l'ha ideato e diretto lei, a San Giorgio a Liri. Grace Chatto dei Clean Bandit la presenta così: \"Per me, TÄRA è __una delle artiste più entusiasmanti__ al mondo in questo momento\". L'avevamo già sentita nel ritornello di ((l'ultimo coccodrillo)) di Westcross."
+    ],
+    "en": {
+     "title": "She sings in Italian and Arabic: *TÄRA invents Arab'n'B*",
+     "dek": "The Palestinian-Italian songwriter fronts La Dolce Vita with Clean Bandit.",
+     "body": [
+      "TÄRA is a Palestinian-Italian songwriter who blends R&B with Arabic instruments: she calls it ==Arab'n'B==. Now she is the voice of La Dolce Vita, the new Clean Bandit single, out on their own label CB X.",
+      "She devised and directed the video herself, in San Giorgio a Liri. Grace Chatto of Clean Bandit introduces her like this: \"For me, TÄRA is __one of the most exciting artists__ in the world right now\". We had already heard her on the chorus of ((l'ultimo coccodrillo)) by Westcross."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/clean-bandit-tara-la-dolce-vita.html"
+     }
+    ]
+   },
+   {
+    "id": "kid-yugi-post-mortem",
+    "date": "2026-10-30",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Kid Yugi riapre il disco: *Anche gli eroi muoiono post mortem*",
+    "dek": "Da oggi la deluxe dell'album triplo platino, con inediti e un fumetto.",
+    "body": [
+     "Da oggi esce Anche gli eroi muoiono post mortem, la deluxe di un album già ==triplo platino==. Dentro ci sono brani inediti, tra cui Sentire la musica.",
+     "Insieme al disco arriva ((Logos)), il fumetto in cui Kid Yugi diventa un personaggio. Il prossimo appuntamento è il concerto evento del __19 giugno 2027__ alla Fiera Milano Live di Rho."
+    ],
+    "en": {
+     "title": "Kid Yugi reopens the record: *Anche gli eroi muoiono post mortem*",
+     "dek": "Out today, the deluxe of the triple-platinum album, with new tracks and a comic.",
+     "body": [
+      "Out today is Anche gli eroi muoiono post mortem, the deluxe of an album that is already ==triple platinum==. It holds unreleased tracks, including Sentire la musica.",
+      "The record comes with ((Logos)), the comic in which Kid Yugi becomes a character. Next up is the one-off concert on __19 June 2027__ at Fiera Milano Live in Rho."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Sorrisi",
+      "url": "https://www.sorrisi.com/musica/guida-settimana-2026-44/"
+     },
+     {
+      "name": "iMusicFun",
+      "url": "https://www.imusicfun.it/top-news/novita-i-nuovi-singoli-in-uscita-venerdi-30-ottobre-2026/"
+     }
+    ]
+   },
+   {
+    "id": "lucio-corsi-napoleone-buonanotte",
+    "date": "2026-10-30",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Lucio Corsi non ha fretta: *Napoleone Buonanotte e niente disco*",
+    "dek": "Il nuovo singolo esce oggi, l'album arriverà quando sarà pronto lui.",
+    "body": [
+     "Napoleone Buonanotte esce oggi, scritto e prodotto con Tommaso Ottomano e registrato su nastro. Lucio Corsi la racconta così: \"Alla fine la vedo come ==una canzone d'amore per la solitudine==\".",
+     "Sul disco invece frena: \"Per il disco aspetterò il momento giusto per me\". Intanto prepara i palazzetti con una band ((di quattordici elementi)): Firenze il 27 novembre, Roma il 5 dicembre, Milano l'11."
+    ],
+    "en": {
+     "title": "Lucio Corsi is in no hurry: *Napoleone Buonanotte, no album yet*",
+     "dek": "The new single is out today; the album will come when he is ready.",
+     "body": [
+      "Napoleone Buonanotte is out today, written and produced with Tommaso Ottomano and recorded on tape. Lucio Corsi describes it like this: \"In the end I see it as ==a love song for loneliness==\".",
+      "On the album he holds back: \"For the record I'll wait for the right moment for me\". Meanwhile he is preparing the arenas with a ((fourteen-piece band)): Florence on 27 November, Rome on 5 December, Milan on the 11th."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/lucio-corsi-nuovo-disco-napoleone-buonanotte.html"
+     }
+    ]
+   },
+   {
+    "id": "toosii-platinum-heart-2",
+    "date": "2026-10-30",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "Sei anni dopo, Toosii torna al cuore: *Platinum Heart 2*",
+    "dek": "Tredici brani e un featuring con YoungBoy Never Broke Again.",
+    "body": [
+     "Toosii, rapper di Raleigh, riprende il filo del progetto del 2020 con Platinum Heart 2: ==tredici brani==, con Highway Love come singolo di punta.",
+     "Ci sono Hunxho in First Night e ((YoungBoy Never Broke Again)) in Please Don't Go. Il Platinum Nights tour parte il __17 novembre da Houston__."
+    ],
+    "en": {
+     "title": "Six years on, Toosii goes back to the heart: *Platinum Heart 2*",
+     "dek": "Thirteen tracks and a feature with YoungBoy Never Broke Again.",
+     "body": [
+      "Toosii, the Raleigh rapper, picks up the thread of his 2020 project with Platinum Heart 2: ==thirteen tracks==, led by the single Highway Love.",
+      "Hunxho is on First Night and ((YoungBoy Never Broke Again)) on Please Don't Go. The Platinum Nights tour starts on __17 November in Houston__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Rap Industry",
+      "url": "https://rapindustry.com/toosii-back-with-platinum-heart-2/"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-29",
   "n": 20,
   "items": [
