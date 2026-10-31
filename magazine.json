@@ -1,5 +1,127 @@
 [
  {
+  "date": "2026-10-31",
+  "n": 22,
+  "items": [
+   {
+    "id": "les-votives-francesca",
+    "date": "2026-10-31",
+    "tag": "Volto nuovo",
+    "country": "IT",
+    "lead": true,
+    "title": "Les Votives passano all'italiano: *Francesca apre la strada*",
+    "dek": "Il trio milanese di X Factor esce con il primo pezzo in italiano. A Sanremo Giovani porterà Non importa.",
+    "body": [
+     "Da ieri c'è ==Francesca==, il primo singolo in italiano dei Les Votives, trio milanese che a X Factor 2024 chiuse secondo, dietro Mimì, nella squadra di Achille Lauro. È un pezzo rock su una ragazza che si guarda allo specchio e non si trova.",
+     "Dopo due EP in inglese, Window e Monostatic, il cambio di lingua arriva al momento giusto: la band è tra i __15 artisti di Sanremo Giovani__, dove canterà ((Non importa))."
+    ],
+    "en": {
+     "title": "Les Votives switch to Italian: *Francesca opens the way*",
+     "dek": "The Milan trio from X Factor releases its first song in Italian. At Sanremo Giovani it will bring Non importa.",
+     "body": [
+      "Out since yesterday is ==Francesca==, the first Italian-language single by Les Votives, a Milan trio that finished second on X Factor 2024, behind Mimì, in Achille Lauro's team. It is a rock song about a girl who looks in the mirror and can't find herself.",
+      "After two English-language EPs, Window and Monostatic, the switch comes at the right time: the band is among the __15 acts at Sanremo Giovani__, where it will sing ((Non importa))."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/les-votives-francesca.html"
+     }
+    ]
+   },
+   {
+    "id": "blanco-clessi",
+    "date": "2026-10-31",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "«I manager sono il male della musica»: *Blanco lascia Clessi*",
+    "dek": "Una story nera, una frase e Rino Gaetano in sottofondo. L'ex manager risponde: «I manager sono SANTI».",
+    "body": [
+     "Blanco si separa di nuovo da Stefano Clessi, il manager che lo scoprì nel 2019. Lo ha fatto con una story tutta nera e una frase sola, «I manager sono il male della musica», sopra ==Sfiorivano le viole== di Rino Gaetano.",
+     "Clessi ha risposto nelle sue stories: «Quando si ottengono successo e fama fin da giovanissimi accettare i 'no' non è facile». E ha chiuso con «I manager sono __SANTI della nostra industria__». Blanco ha ripostato ridendo: per lui tutti sapevano da ((due mesi)) che se ne sarebbe andato."
+    ],
+    "en": {
+     "title": "\"Managers are the evil of music\": *Blanco leaves Clessi*",
+     "dek": "A black story, one line and Rino Gaetano in the background. The ex-manager answers: \"Managers are SAINTS\".",
+     "body": [
+      "Blanco is splitting again from Stefano Clessi, the manager who discovered him in 2019. He did it with an all-black story and a single line, \"Managers are the evil of music\", over ==Sfiorivano le viole== by Rino Gaetano.",
+      "Clessi answered in his own stories: \"When you get success and fame very young, accepting a 'no' isn't easy\". He closed with \"Managers are the __SAINTS of our industry__\". Blanco reposted it laughing: according to him, everyone had known for ((two months)) that he was leaving."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/blanco-manager-storia-stefano-clessi.html"
+     },
+     {
+      "name": "Il Fatto Quotidiano",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/30/il-male-della-nostra-musica-blanco-dice-addio-al-manager-stefano-clessi-ma-lui-replica-quando-successo-e-fama-arrivano-da-giovanissimi-accettare-i-no-non-e-facile/8555291/"
+     }
+    ]
+   },
+   {
+    "id": "j-cole-non-si-ritira",
+    "date": "2026-10-31",
+    "tag": "USA",
+    "country": "US",
+    "lead": false,
+    "title": "J. Cole ci ripensa: *«Non dirò mai che mi ritiro»*",
+    "dek": "The Fall-Off doveva essere il suo ultimo disco. Ora la porta resta aperta.",
+    "body": [
+     "J. Cole non si ritira. In una conversazione con il suo mentore Mark Pitts e con Frazier Tharpe di GQ ha raccontato che The Fall-Off era nato come un addio: «Mentre lo facevo pensavo: cavolo, questa sarà la mia ultima roba».",
+     "Poi, finendo il disco, qualcosa è cambiato: «Non so quando arriverà la prossima cosa, ma di sicuro ==non dirò di no==». Nessun album annunciato, ma per chi aspettava il ((ritiro definitivo)) la porta resta __aperta__."
+    ],
+    "en": {
+     "title": "J. Cole changes his mind: *\"I'll never say I'm going to retire\"*",
+     "dek": "The Fall-Off was meant to be his last album. Now the door stays open.",
+     "body": [
+      "J. Cole is not retiring. In a conversation with his mentor Mark Pitts and GQ's Frazier Tharpe, he said The Fall-Off started as a goodbye: \"When I was making that album, I was making it like, 'Damn, this is going to be my last sh*t.'\"",
+      "Then, while finishing it, something changed: \"I don't know when the next thing is going to happen, but I'm definitely ==not going to say no==\". No album is announced, but for anyone waiting for a ((final retirement)) the door stays __open__."
+     ]
+    },
+    "sources": [
+     {
+      "name": "Hypebeast",
+      "url": "https://hypebeast.com/2026/10/j-cole-confirms-not-retiring-from-music"
+     },
+     {
+      "name": "HotNewHipHop",
+      "url": "https://www.hotnewhiphop.com/1014768-j-cole-not-retiring"
+     }
+    ]
+   },
+   {
+    "id": "nels-meta-strada",
+    "date": "2026-10-31",
+    "tag": "Italia",
+    "country": "IT",
+    "lead": false,
+    "title": "Dalle canzoni dei rovere al primo EP: *Nels va a metà strada*",
+    "dek": "Nelson Venceslai, bolognese classe 1994, pubblica Metà strada il 6 novembre.",
+    "body": [
+     "Nels, all'anagrafe Nelson Venceslai, classe 1994 da Bologna, pubblica il 6 novembre ==Metà strada==, il suo primo EP, per Woodworm. Nel 2017 le sue canzoni sono diventate il progetto rovere, con tre dischi fino a 11 case.",
+     "Due brani in versione acustica e due date dal vivo, __l'11 novembre a Milano__ e il 12 a Bologna. Sui social l'ha presentato così: «ci incontriamo ((a metà strada)) di quello che sarà»."
+    ],
+    "en": {
+     "title": "From the rovere songs to a first EP: *Nels meets halfway*",
+     "dek": "Nelson Venceslai, born in 1994 in Bologna, releases Metà strada on 6 November.",
+     "body": [
+      "Nels, real name Nelson Venceslai, born in 1994 in Bologna, releases ==Metà strada==, a first EP, on 6 November via Woodworm. In 2017 those songs became the rovere project, with three records up to 11 case.",
+      "Two songs in acoustic versions and two live dates, __11 November in Milan__ and the 12th in Bologna. On social media he put it this way: \"we'll meet ((halfway)) to what will be\"."
+     ]
+    },
+    "sources": [
+     {
+      "name": "All Music Italia",
+      "url": "https://www.allmusicitalia.it/news/nels-meta-strada-primo-ep.html"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "date": "2026-10-30",
   "n": 21,
   "items": [
